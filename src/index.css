@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  background-color: hsl(var(--background));
+}
+
+
+body {
+  @apply bg-gray-100 text-gray-900;
+  font-family: Inter, sans-serif;
+}
+  .dark {
+    --background: 222.2 84% 4.9%;
+  }

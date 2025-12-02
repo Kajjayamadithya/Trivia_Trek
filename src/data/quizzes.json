@@ -1,0 +1,3906 @@
+    [
+    {
+        "id": "general-1",
+        "title": "General Knowledge Quiz",
+        "description": "Test your knowledge about world facts, geography, history and more.",
+        "timeLimitSec": 1200,
+        "questions": [
+        {
+            "id": "gq1",
+            "text": "What is the capital of France?",
+            "options": [
+            {"id": "a", "text": "Berlin"},
+            {"id": "b", "text": "Paris"},
+            {"id": "c", "text": "Madrid"},
+            {"id": "d", "text": "Lisbon"}
+            ],
+            "answerId": "b",
+            "explanation": "Paris is the capital city of France."
+        },
+        {
+            "id": "gq2",
+            "text": "Which planet is known as the Red Planet?",
+            "options": [
+            {"id": "a", "text": "Venus"},
+            {"id": "b", "text": "Saturn"},
+            {"id": "c", "text": "Mars"},
+            {"id": "d", "text": "Jupiter"}
+            ],
+            "answerId": "c",
+            "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+        },
+        {
+            "id": "gq3",
+            "text": "Who wrote 'Romeo and Juliet'?",
+            "options": [
+            {"id": "a", "text": "Charles Dickens"},
+            {"id": "b", "text": "William Shakespeare"},
+            {"id": "c", "text": "Oscar Wilde"},
+            {"id": "d", "text": "Jane Austen"}
+            ],
+            "answerId": "b",
+            "explanation": "Romeo and Juliet is a famous play by Shakespeare."
+        },
+        {
+            "id": "gq4",
+            "text": "What is the largest ocean on Earth?",
+            "options": [
+            {"id": "a", "text": "Atlantic Ocean"},
+            {"id": "b", "text": "Indian Ocean"},
+            {"id": "c", "text": "Arctic Ocean"},
+            {"id": "d", "text": "Pacific Ocean"}
+            ],
+            "answerId": "d",
+            "explanation": "The Pacific Ocean is the largest and deepest ocean basin on Earth."
+        },
+        {
+            "id": "gq5",
+            "text": "Which country is home to the kangaroo?",
+            "options": [
+            {"id": "a", "text": "South Africa"},
+            {"id": "b", "text": "Brazil"},
+            {"id": "c", "text": "Australia"},
+            {"id": "d", "text": "New Zealand"}
+            ],
+            "answerId": "c",
+            "explanation": "Kangaroos are marsupials native to Australia."
+        },
+        {
+            "id": "gq6",
+            "text": "What is the currency of Japan?",
+            "options": [
+            {"id": "a", "text": "Won"},
+            {"id": "b", "text": "Yuan"},
+            {"id": "c", "text": "Yen"},
+            {"id": "d", "text": "Ringgit"}
+            ],
+            "answerId": "c",
+            "explanation": "The Japanese Yen is the official currency of Japan."
+        },
+        {
+            "id": "gq7",
+            "text": "Who painted the Mona Lisa?",
+            "options": [
+            {"id": "a", "text": "Vincent van Gogh"},
+            {"id": "b", "text": "Pablo Picasso"},
+            {"id": "c", "text": "Leonardo da Vinci"},
+            {"id": "d", "text": "Michelangelo"}
+            ],
+            "answerId": "c",
+            "explanation": "The Mona Lisa is a famous half-length portrait by the Italian artist Leonardo da Vinci."
+        },
+        {
+            "id": "gq8",
+            "text": "What is the smallest country in the world?",
+            "options": [
+            {"id": "a", "text": "Monaco"},
+            {"id": "b", "text": "Vatican City"},
+            {"id": "c", "text": "San Marino"},
+            {"id": "d", "text": "Liechtenstein"}
+            ],
+            "answerId": "b",
+            "explanation": "Vatican City is an independent city-state enclaved within Rome, Italy, and is the smallest country by area and population."
+        },
+        {
+            "id": "gq9",
+            "text": "Which element has the chemical symbol 'Au'?",
+            "options": [
+            {"id": "a", "text": "Silver"},
+            {"id": "b", "text": "Gold"},
+            {"id": "c", "text": "Argon"},
+            {"id": "d", "text": "Aluminum"}
+            ],
+            "answerId": "b",
+            "explanation": "The symbol 'Au' comes from the Latin word for gold, 'aurum'."
+        },
+        {
+            "id": "gq10",
+            "text": "How many continents are there?",
+            "options": [
+            {"id": "a", "text": "5"},
+            {"id": "b", "text": "6"},
+            {"id": "c", "text": "7"},
+            {"id": "d", "text": "8"}
+            ],
+            "answerId": "c",
+            "explanation": "The seven continents are: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+        },
+        {
+            "id": "gq11",
+            "text": "What is the longest river in the world?",
+            "options": [
+            {"id": "a", "text": "Amazon River"},
+            {"id": "b", "text": "Nile River"},
+            {"id": "c", "text": "Yangtze River"},
+            {"id": "d", "text": "Mississippi River"}
+            ],
+            "answerId": "b",
+            "explanation": "The Nile River in Africa is traditionally considered the longest river in the world at about 6,650 km."
+        },
+        {
+            "id": "gq12",
+            "text": "Which country hosted the 2016 Summer Olympics?",
+            "options": [
+            {"id": "a", "text": "China"},
+            {"id": "b", "text": "Brazil"},
+            {"id": "c", "text": "UK"},
+            {"id": "d", "text": "Russia"}
+            ],
+            "answerId": "b",
+            "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+        },
+        {
+            "id": "gq13",
+            "text": "What is the national animal of India?",
+            "options": [
+            {"id": "a", "text": "Lion"},
+            {"id": "b", "text": "Elephant"},
+            {"id": "c", "text": "Tiger"},
+            {"id": "d", "text": "Peacock"}
+            ],
+            "answerId": "c",
+            "explanation": "The Bengal Tiger is the national animal of India."
+        },
+        {
+            "id": "gq14",
+            "text": "Which language has the most native speakers?",
+            "options": [
+            {"id": "a", "text": "English"},
+            {"id": "b", "text": "Spanish"},
+            {"id": "c", "text": "Hindi"},
+            {"id": "d", "text": "Mandarin Chinese"}
+            ],
+            "answerId": "d",
+            "explanation": "Mandarin Chinese has the most native speakers in the world."
+        },
+        {
+            "id": "gq15",
+            "text": "What is the largest desert in the world?",
+            "options": [
+            {"id": "a", "text": "Sahara Desert"},
+            {"id": "b", "text": "Arabian Desert"},
+            {"id": "c", "text": "Gobi Desert"},
+            {"id": "d", "text": "Antarctic Desert"}
+            ],
+            "answerId": "d",
+            "explanation": "The Antarctic Desert is the largest desert in the world, covering about 14 million square kilometers."
+        },
+        {
+            "id": "gq16",
+            "text": "Which year did World War II end?",
+            "options": [
+            {"id": "a", "text": "1944"},
+            {"id": "b", "text": "1945"},
+            {"id": "c", "text": "1946"},
+            {"id": "d", "text": "1947"}
+            ],
+            "answerId": "b",
+            "explanation": "World War II ended in 1945 with the surrender of Germany and Japan."
+        },
+        {
+            "id": "gq17",
+            "text": "What is the capital of Canada?",
+            "options": [
+            {"id": "a", "text": "Toronto"},
+            {"id": "b", "text": "Vancouver"},
+            {"id": "c", "text": "Ottawa"},
+            {"id": "d", "text": "Montreal"}
+            ],
+            "answerId": "c",
+            "explanation": "Ottawa is the capital city of Canada."
+        },
+        {
+            "id": "gq18",
+            "text": "Which planet is known as the 'Morning Star'?",
+            "options": [
+            {"id": "a", "text": "Mars"},
+            {"id": "b", "text": "Venus"},
+            {"id": "c", "text": "Jupiter"},
+            {"id": "d", "text": "Mercury"}
+            ],
+            "answerId": "b",
+            "explanation": "Venus is often called the Morning Star or Evening Star because it's visible around sunrise or sunset."
+        },
+        {
+            "id": "gq19",
+            "text": "What is the main ingredient in guacamole?",
+            "options": [
+            {"id": "a", "text": "Tomato"},
+            {"id": "b", "text": "Avocado"},
+            {"id": "c", "text": "Pepper"},
+            {"id": "d", "text": "Onion"}
+            ],
+            "answerId": "b",
+            "explanation": "Guacamole is primarily made from avocados."
+        },
+        {
+            "id": "gq20",
+            "text": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+            {"id": "a", "text": "China"},
+            {"id": "b", "text": "Japan"},
+            {"id": "c", "text": "South Korea"},
+            {"id": "d", "text": "Thailand"}
+            ],
+            "answerId": "b",
+            "explanation": "Japan is known as the Land of the Rising Sun."
+        },
+        {
+            "id": "gq21",
+            "text": "What is the largest mammal in the world?",
+            "options": [
+            {"id": "a", "text": "African Elephant"},
+            {"id": "b", "text": "Blue Whale"},
+            {"id": "c", "text": "Giraffe"},
+            {"id": "d", "text": "Polar Bear"}
+            ],
+            "answerId": "b",
+            "explanation": "The Blue Whale is the largest mammal and the largest animal ever known to have existed."
+        },
+        {
+            "id": "gq22",
+            "text": "Which famous scientist developed the theory of relativity?",
+            "options": [
+            {"id": "a", "text": "Isaac Newton"},
+            {"id": "b", "text": "Albert Einstein"},
+            {"id": "c", "text": "Stephen Hawking"},
+            {"id": "d", "text": "Galileo Galilei"}
+            ],
+            "answerId": "b",
+            "explanation": "Albert Einstein developed the theory of relativity."
+        },
+        {
+            "id": "gq23",
+            "text": "What is the currency of the United Kingdom?",
+            "options": [
+            {"id": "a", "text": "Euro"},
+            {"id": "b", "text": "Dollar"},
+            {"id": "c", "text": "Pound Sterling"},
+            {"id": "d", "text": "Franc"}
+            ],
+            "answerId": "c",
+            "explanation": "The Pound Sterling is the currency of the United Kingdom."
+        },
+        {
+            "id": "gq24",
+            "text": "Which ocean is the deepest?",
+            "options": [
+            {"id": "a", "text": "Atlantic Ocean"},
+            {"id": "b", "text": "Indian Ocean"},
+            {"id": "c", "text": "Pacific Ocean"},
+            {"id": "d", "text": "Arctic Ocean"}
+            ],
+            "answerId": "c",
+            "explanation": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth."
+        },
+        {
+            "id": "gq25",
+            "text": "What is the most widely spoken language in South America?",
+            "options": [
+            {"id": "a", "text": "English"},
+            {"id": "b", "text": "Portuguese"},
+            {"id": "c", "text": "Spanish"},
+            {"id": "d", "text": "French"}
+            ],
+            "answerId": "b",
+            "explanation": "Portuguese is the most widely spoken language in South America, primarily due to Brazil's large population."
+        },
+        {
+            "id": "gq26",
+            "text": "Which country has the most natural lakes?",
+            "options": [
+            {"id": "a", "text": "USA"},
+            {"id": "b", "text": "Russia"},
+            {"id": "c", "text": "Canada"},
+            {"id": "d", "text": "China"}
+            ],
+            "answerId": "c",
+            "explanation": "Canada has the most natural lakes of any country in the world."
+        },
+        {
+            "id": "gq27",
+            "text": "What is the world's highest mountain?",
+            "options": [
+            {"id": "a", "text": "K2"},
+            {"id": "b", "text": "Mount Everest"},
+            {"id": "c", "text": "Kangchenjunga"},
+            {"id": "d", "text": "Makalu"}
+            ],
+            "answerId": "b",
+            "explanation": "Mount Everest in the Himalayas is the highest mountain above sea level at 8,848 meters."
+        },
+        {
+            "id": "gq28",
+            "text": "Which city is known as the Big Apple?",
+            "options": [
+            {"id": "a", "text": "Chicago"},
+            {"id": "b", "text": "Los Angeles"},
+            {"id": "c", "text": "New York City"},
+            {"id": "d", "text": "Boston"}
+            ],
+            "answerId": "c",
+            "explanation": "New York City is nicknamed the Big Apple."
+        },
+        {
+            "id": "gq29",
+            "text": "What is the most populated country in the world?",
+            "options": [
+            {"id": "a", "text": "India"},
+            {"id": "b", "text": "USA"},
+            {"id": "c", "text": "China"},
+            {"id": "d", "text": "Indonesia"}
+            ],
+            "answerId": "c",
+            "explanation": "China has the largest population in the world, though India is rapidly catching up."
+        },
+        {
+            "id": "gq30",
+            "text": "Which animal is known as the 'Ship of the Desert'?",
+            "options": [
+            {"id": "a", "text": "Horse"},
+            {"id": "b", "text": "Camel"},
+            {"id": "c", "text": "Elephant"},
+            {"id": "d", "text": "Donkey"}
+            ],
+            "answerId": "b",
+            "explanation": "Camels are called the 'Ships of the Desert' because of their ability to travel long distances in desert conditions."
+        },
+        {
+            "id": "gq31",
+            "text": "What is the largest island in the world?",
+            "options": [
+            {"id": "a", "text": "Borneo"},
+            {"id": "b", "text": "Madagascar"},
+            {"id": "c", "text": "Greenland"},
+            {"id": "d", "text": "New Guinea"}
+            ],
+            "answerId": "c",
+            "explanation": "Greenland is the world's largest island."
+        },
+        {
+            "id": "gq32",
+            "text": "Which country invented tea?",
+            "options": [
+            {"id": "a", "text": "India"},
+            {"id": "b", "text": "UK"},
+            {"id": "c", "text": "China"},
+            {"id": "d", "text": "Japan"}
+            ],
+            "answerId": "c",
+            "explanation": "Tea originated in China as a medicinal drink."
+        },
+        {
+            "id": "gq33",
+            "text": "What is the capital of Egypt?",
+            "options": [
+            {"id": "a", "text": "Alexandria"},
+            {"id": "b", "text": "Giza"},
+            {"id": "c", "text": "Cairo"},
+            {"id": "d", "text": "Luxor"}
+            ],
+            "answerId": "c",
+            "explanation": "Cairo is the capital city of Egypt."
+        },
+        {
+            "id": "gq34",
+            "text": "Which planet has the most moons?",
+            "options": [
+            {"id": "a", "text": "Jupiter"},
+            {"id": "b", "text": "Saturn"},
+            {"id": "c", "text": "Uranus"},
+            {"id": "d", "text": "Neptune"}
+            ],
+            "answerId": "b",
+            "explanation": "Saturn has the most moons in our solar system, with over 140 confirmed natural satellites."
+        },
+        {
+            "id": "gq35",
+            "text": "What is the most common blood type in humans?",
+            "options": [
+            {"id": "a", "text": "A"},
+            {"id": "b", "text": "B"},
+            {"id": "c", "text": "AB"},
+            {"id": "d", "text": "O"}
+            ],
+            "answerId": "d",
+            "explanation": "O positive is the most common blood type worldwide."
+        },
+        {
+            "id": "gq36",
+            "text": "Which country is the largest by area?",
+            "options": [
+            {"id": "a", "text": "USA"},
+            {"id": "b", "text": "China"},
+            {"id": "c", "text": "Russia"},
+            {"id": "d", "text": "Canada"}
+            ],
+            "answerId": "c",
+            "explanation": "Russia is the largest country by area, covering more than 17 million square kilometers."
+        },
+        {
+            "id": "gq37",
+            "text": "What is the hardest natural substance on Earth?",
+            "options": [
+            {"id": "a", "text": "Gold"},
+            {"id": "b", "text": "Iron"},
+            {"id": "c", "text": "Diamond"},
+            {"id": "d", "text": "Platinum"}
+            ],
+            "answerId": "c",
+            "explanation": "Diamond is the hardest known natural material."
+        },
+        {
+            "id": "gq38",
+            "text": "Which animal is the national symbol of the United States?",
+            "options": [
+            {"id": "a", "text": "Eagle"},
+            {"id": "b", "text": "Bear"},
+            {"id": "c", "text": "Lion"},
+            {"id": "d", "text": "Buffalo"}
+            ],
+            "answerId": "a",
+            "explanation": "The Bald Eagle is the national bird and symbol of the United States."
+        },
+        {
+            "id": "gq39",
+            "text": "What is the most spoken language in Africa?",
+            "options": [
+            {"id": "a", "text": "English"},
+            {"id": "b", "text": "French"},
+            {"id": "c", "text": "Arabic"},
+            {"id": "d", "text": "Swahili"}
+            ],
+            "answerId": "c",
+            "explanation": "Arabic is the most widely spoken language in Africa."
+        },
+        {
+            "id": "gq40",
+            "text": "Which city hosted the 2008 Summer Olympics?",
+            "options": [
+            {"id": "a", "text": "London"},
+            {"id": "b", "text": "Beijing"},
+            {"id": "c", "text": "Sydney"},
+            {"id": "d", "text": "Athens"}
+            ],
+            "answerId": "b",
+            "explanation": "Beijing, China hosted the 2008 Summer Olympics."
+        }
+        ]
+    },
+    {
+        "id": "science-1",
+        "title": "Science Fundamentals",
+        "description": "Test your knowledge of basic science concepts across physics, chemistry, and biology.",
+        "timeLimitSec": 2400,
+        "questions": [
+        {
+            "id": "sq1",
+            "text": "What is the chemical formula for water?",
+            "options": [
+            {"id": "a", "text": "CO2"},
+            {"id": "b", "text": "H2O"},
+            {"id": "c", "text": "O2"},
+            {"id": "d", "text": "NaCl"}
+            ],
+            "answerId": "b",
+            "explanation": "H2O consists of 2 hydrogen atoms and 1 oxygen atom."
+        },
+        {
+            "id": "sq2",
+            "text": "What gas do plants absorb from the atmosphere?",
+            "options": [
+            {"id": "a", "text": "Oxygen"},
+            {"id": "b", "text": "Carbon Dioxide"},
+            {"id": "c", "text": "Nitrogen"},
+            {"id": "d", "text": "Hydrogen"}
+            ],
+            "answerId": "b",
+            "explanation": "Plants absorb CO2 for the process of photosynthesis."
+        },
+        {
+            "id": "sq3",
+            "text": "What is the hardest natural substance on Earth?",
+            "options": [
+            {"id": "a", "text": "Gold"},
+            {"id": "b", "text": "Iron"},
+            {"id": "c", "text": "Diamond"},
+            {"id": "d", "text": "Platinum"}
+            ],
+            "answerId": "c",
+            "explanation": "Diamond is composed of carbon atoms arranged in a crystal structure, making it the hardest known natural material."
+        },
+        {
+            "id": "sq4",
+            "text": "Which organ in the human body is responsible for pumping blood?",
+            "options": [
+            {"id": "a", "text": "Liver"},
+            {"id": "b", "text": "Brain"},
+            {"id": "c", "text": "Heart"},
+            {"id": "d", "text": "Lungs"}
+            ],
+            "answerId": "c",
+            "explanation": "The heart is a muscular organ that pumps blood throughout the circulatory system."
+        },
+        {
+            "id": "sq5",
+            "text": "What is the speed of light in a vacuum?",
+            "options": [
+            {"id": "a", "text": "300,000 km/s"},
+            {"id": "b", "text": "150,000 km/s"},
+            {"id": "c", "text": "500,000 km/s"},
+            {"id": "d", "text": "1,000,000 km/s"}
+            ],
+            "answerId": "a",
+            "explanation": "The speed of light in a vacuum is exactly 299,792,458 meters per second, commonly approximated as 300,000 km/s."
+        },
+        {
+            "id": "sq6",
+            "text": "Which particle in an atom has a negative charge?",
+            "options": [
+            {"id": "a", "text": "Proton"},
+            {"id": "b", "text": "Neutron"},
+            {"id": "c", "text": "Electron"},
+            {"id": "d", "text": "Nucleus"}
+            ],
+            "answerId": "c",
+            "explanation": "Electrons orbit the nucleus and carry a negative charge. Protons are positive, and neutrons are neutral."
+        },
+        {
+            "id": "sq7",
+            "text": "What is the main gas found in the Earth's atmosphere?",
+            "options": [
+            {"id": "a", "text": "Oxygen"},
+            {"id": "b", "text": "Carbon Dioxide"},
+            {"id": "c", "text": "Nitrogen"},
+            {"id": "d", "text": "Hydrogen"}
+            ],
+            "answerId": "c",
+            "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+        },
+        {
+            "id": "sq8",
+            "text": "Human beings belong to which class of animals?",
+            "options": [
+            {"id": "a", "text": "Amphibians"},
+            {"id": "b", "text": "Mammals"},
+            {"id": "c", "text": "Reptiles"},
+            {"id": "d", "text": "Aves"}
+            ],
+            "answerId": "b",
+            "explanation": "Humans are mammals, characterized by the presence of mammary glands, hair, and three middle ear bones."
+        },
+        {
+            "id": "sq9",
+            "text": "What is the process by which plants make their own food called?",
+            "options": [
+            {"id": "a", "text": "Respiration"},
+            {"id": "b", "text": "Digestion"},
+            {"id": "c", "text": "Photosynthesis"},
+            {"id": "d", "text": "Fermentation"}
+            ],
+            "answerId": "c",
+            "explanation": "Photosynthesis uses sunlight, water, and carbon dioxide to create glucose and oxygen."
+        },
+        {
+            "id": "sq10",
+            "text": "Which of these is NOT a state of matter?",
+            "options": [
+            {"id": "a", "text": "Solid"},
+            {"id": "b", "text": "Liquid"},
+            {"id": "c", "text": "Gas"},
+            {"id": "d", "text": "Mass"}
+            ],
+            "answerId": "d",
+            "explanation": "The four fundamental states of matter are solid, liquid, gas, and plasma. Mass is a property of matter, not a state."
+        },
+        {
+            "id": "sq11",
+            "text": "What is the atomic number of carbon?",
+            "options": [
+            {"id": "a", "text": "6"},
+            {"id": "b", "text": "12"},
+            {"id": "c", "text": "14"},
+            {"id": "d", "text": "8"}
+            ],
+            "answerId": "a",
+            "explanation": "Carbon has an atomic number of 6, meaning it has 6 protons in its nucleus."
+        },
+        {
+            "id": "sq12",
+            "text": "Which planet is closest to the Sun?",
+            "options": [
+            {"id": "a", "text": "Venus"},
+            {"id": "b", "text": "Earth"},
+            {"id": "c", "text": "Mercury"},
+            {"id": "d", "text": "Mars"}
+            ],
+            "answerId": "c",
+            "explanation": "Mercury is the closest planet to the Sun in our solar system."
+        },
+        {
+            "id": "sq13",
+            "text": "What is the chemical symbol for gold?",
+            "options": [
+            {"id": "a", "text": "Go"},
+            {"id": "b", "text": "Gd"},
+            {"id": "c", "text": "Au"},
+            {"id": "d", "text": "Ag"}
+            ],
+            "answerId": "c",
+            "explanation": "The symbol 'Au' comes from the Latin word for gold, 'aurum'."
+        },
+        {
+            "id": "sq14",
+            "text": "Which blood cells are responsible for carrying oxygen?",
+            "options": [
+            {"id": "a", "text": "White blood cells"},
+            {"id": "b", "text": "Red blood cells"},
+            {"id": "c", "text": "Platelets"},
+            {"id": "d", "text": "Plasma"}
+            ],
+            "answerId": "b",
+            "explanation": "Red blood cells contain hemoglobin which carries oxygen throughout the body."
+        },
+        {
+            "id": "sq15",
+            "text": "What force keeps planets in orbit around the Sun?",
+            "options": [
+            {"id": "a", "text": "Magnetic force"},
+            {"id": "b", "text": "Gravitational force"},
+            {"id": "c", "text": "Electromagnetic force"},
+            {"id": "d", "text": "Nuclear force"}
+            ],
+            "answerId": "b",
+            "explanation": "Gravity is the force that keeps planets in orbit around the Sun."
+        },
+        {
+            "id": "sq16",
+            "text": "What is the most abundant element in the universe?",
+            "options": [
+            {"id": "a", "text": "Oxygen"},
+            {"id": "b", "text": "Carbon"},
+            {"id": "c", "text": "Helium"},
+            {"id": "d", "text": "Hydrogen"}
+            ],
+            "answerId": "d",
+            "explanation": "Hydrogen is the most abundant element, making up about 75% of all normal matter in the universe."
+        },
+        {
+            "id": "sq17",
+            "text": "Which part of the plant conducts photosynthesis?",
+            "options": [
+            {"id": "a", "text": "Root"},
+            {"id": "b", "text": "Stem"},
+            {"id": "c", "text": "Leaf"},
+            {"id": "d", "text": "Flower"}
+            ],
+            "answerId": "c",
+            "explanation": "Leaves contain chlorophyll and are the primary site for photosynthesis in most plants."
+        },
+        {
+            "id": "sq18",
+            "text": "What is the unit of electric current?",
+            "options": [
+            {"id": "a", "text": "Volt"},
+            {"id": "b", "text": "Watt"},
+            {"id": "c", "text": "Ampere"},
+            {"id": "d", "text": "Ohm"}
+            ],
+            "answerId": "c",
+            "explanation": "The ampere is the unit of electric current in the International System of Units (SI)."
+        },
+        {
+            "id": "sq19",
+            "text": "Which gas is responsible for the greenhouse effect on Earth?",
+            "options": [
+            {"id": "a", "text": "Oxygen"},
+            {"id": "b", "text": "Nitrogen"},
+            {"id": "c", "text": "Carbon Dioxide"},
+            {"id": "d", "text": "Helium"}
+            ],
+            "answerId": "c",
+            "explanation": "Carbon dioxide and other greenhouse gases trap heat in the atmosphere, causing the greenhouse effect."
+        },
+        {
+            "id": "sq20",
+            "text": "What is the chemical formula for table salt?",
+            "options": [
+            {"id": "a", "text": "NaCl"},
+            {"id": "b", "text": "H2O"},
+            {"id": "c", "text": "CO2"},
+            {"id": "d", "text": "CaCO3"}
+            ],
+            "answerId": "a",
+            "explanation": "Table salt is sodium chloride, with the chemical formula NaCl."
+        },
+        {
+            "id": "sq21",
+            "text": "Which scientist proposed the theory of evolution by natural selection?",
+            "options": [
+            {"id": "a", "text": "Isaac Newton"},
+            {"id": "b", "text": "Albert Einstein"},
+            {"id": "c", "text": "Charles Darwin"},
+            {"id": "d", "text": "Gregor Mendel"}
+            ],
+            "answerId": "c",
+            "explanation": "Charles Darwin proposed the theory of evolution by natural selection in his book 'On the Origin of Species'."
+        },
+        {
+            "id": "sq22",
+            "text": "What is the pH value of pure water?",
+            "options": [
+            {"id": "a", "text": "5"},
+            {"id": "b", "text": "7"},
+            {"id": "c", "text": "8"},
+            {"id": "d", "text": "14"}
+            ],
+            "answerId": "b",
+            "explanation": "Pure water has a pH of 7, which is considered neutral."
+        },
+        {
+            "id": "sq23",
+            "text": "Which metal is liquid at room temperature?",
+            "options": [
+            {"id": "a", "text": "Iron"},
+            {"id": "b", "text": "Copper"},
+            {"id": "c", "text": "Mercury"},
+            {"id": "d", "text": "Aluminum"}
+            ],
+            "answerId": "c",
+            "explanation": "Mercury is the only metal that is liquid at standard room temperature and pressure."
+        },
+        {
+            "id": "sq24",
+            "text": "What is the largest organ in the human body?",
+            "options": [
+            {"id": "a", "text": "Liver"},
+            {"id": "b", "text": "Brain"},
+            {"id": "c", "text": "Skin"},
+            {"id": "d", "text": "Heart"}
+            ],
+            "answerId": "c",
+            "explanation": "The skin is the largest organ of the human body."
+        },
+        {
+            "id": "sq25",
+            "text": "Which subatomic particle has no electric charge?",
+            "options": [
+            {"id": "a", "text": "Proton"},
+            {"id": "b", "text": "Electron"},
+            {"id": "c", "text": "Neutron"},
+            {"id": "d", "text": "Photon"}
+            ],
+            "answerId": "c",
+            "explanation": "Neutrons have no electric charge, while protons are positive and electrons are negative."
+        },
+        {
+            "id": "sq26",
+            "text": "What is the study of fossils called?",
+            "options": [
+            {"id": "a", "text": "Geology"},
+            {"id": "b", "text": "Paleontology"},
+            {"id": "c", "text": "Archaeology"},
+            {"id": "d", "text": "Anthropology"}
+            ],
+            "answerId": "b",
+            "explanation": "Paleontology is the scientific study of fossils to understand the history of life on Earth."
+        },
+        {
+            "id": "sq27",
+            "text": "Which gas do humans breathe out as a waste product?",
+            "options": [
+            {"id": "a", "text": "Oxygen"},
+            {"id": "b", "text": "Nitrogen"},
+            {"id": "c", "text": "Carbon Dioxide"},
+            {"id": "d", "text": "Hydrogen"}
+            ],
+            "answerId": "c",
+            "explanation": "Humans exhale carbon dioxide as a waste product of cellular respiration."
+        },
+        {
+            "id": "sq28",
+            "text": "What is the main component of the Sun?",
+            "options": [
+            {"id": "a", "text": "Helium"},
+            {"id": "b", "text": "Oxygen"},
+            {"id": "c", "text": "Hydrogen"},
+            {"id": "d", "text": "Carbon"}
+            ],
+            "answerId": "c",
+            "explanation": "The Sun is primarily composed of hydrogen (about 74%) and helium (about 24%)."
+        },
+        {
+            "id": "sq29",
+            "text": "Which vitamin is produced when human skin is exposed to sunlight?",
+            "options": [
+            {"id": "a", "text": "Vitamin A"},
+            {"id": "b", "text": "Vitamin B"},
+            {"id": "c", "text": "Vitamin C"},
+            {"id": "d", "text": "Vitamin D"}
+            ],
+            "answerId": "d",
+            "explanation": "Vitamin D is synthesized in the skin when it is exposed to ultraviolet B (UVB) radiation from sunlight."
+        },
+        {
+            "id": "sq30",
+            "text": "What is the SI unit of force?",
+            "options": [
+            {"id": "a", "text": "Joule"},
+            {"id": "b", "text": "Watt"},
+            {"id": "c", "text": "Newton"},
+            {"id": "d", "text": "Pascal"}
+            ],
+            "answerId": "c",
+            "explanation": "The newton (symbol: N) is the SI unit of force, named after Isaac Newton."
+        },
+        {
+            "id": "sq31",
+            "text": "Which element has the highest melting point?",
+            "options": [
+            {"id": "a", "text": "Tungsten"},
+            {"id": "b", "text": "Iron"},
+            {"id": "c", "text": "Gold"},
+            {"id": "d", "text": "Copper"}
+            ],
+            "answerId": "a",
+            "explanation": "Tungsten has the highest melting point of all metals at 3,422°C (6,192°F)."
+        },
+        {
+            "id": "sq32",
+            "text": "What is the normal human body temperature in Celsius?",
+            "options": [
+            {"id": "a", "text": "35°C"},
+            {"id": "b", "text": "36°C"},
+            {"id": "c", "text": "37°C"},
+            {"id": "d", "text": "38°C"}
+            ],
+            "answerId": "c",
+            "explanation": "The normal human body temperature is approximately 37°C (98.6°F)."
+        },
+        {
+            "id": "sq33",
+            "text": "Which planet has the Great Red Spot?",
+            "options": [
+            {"id": "a", "text": "Mars"},
+            {"id": "b", "text": "Jupiter"},
+            {"id": "c", "text": "Saturn"},
+            {"id": "d", "text": "Neptune"}
+            ],
+            "answerId": "b",
+            "explanation": "Jupiter's Great Red Spot is a giant storm that has been raging for at least 400 years."
+        },
+        {
+            "id": "sq34",
+            "text": "What is the chemical formula for ozone?",
+            "options": [
+            {"id": "a", "text": "O2"},
+            {"id": "b", "text": "O3"},
+            {"id": "c", "text": "CO2"},
+            {"id": "d", "text": "H2O"}
+            ],
+            "answerId": "b",
+            "explanation": "Ozone is a molecule consisting of three oxygen atoms (O3)."
+        },
+        {
+            "id": "sq35",
+            "text": "Which part of the brain controls balance and coordination?",
+            "options": [
+            {"id": "a", "text": "Cerebrum"},
+            {"id": "b", "text": "Cerebellum"},
+            {"id": "c", "text": "Brainstem"},
+            {"id": "d", "text": "Hypothalamus"}
+            ],
+            "answerId": "b",
+            "explanation": "The cerebellum is responsible for coordinating movement and maintaining balance and posture."
+        },
+        {
+            "id": "sq36",
+            "text": "What is the most common element in the Earth's crust?",
+            "options": [
+            {"id": "a", "text": "Iron"},
+            {"id": "b", "text": "Oxygen"},
+            {"id": "c", "text": "Silicon"},
+            {"id": "d", "text": "Aluminum"}
+            ],
+            "answerId": "b",
+            "explanation": "Oxygen is the most abundant element in the Earth's crust, making up about 46% of it by weight."
+        },
+        {
+            "id": "sq37",
+            "text": "Which type of energy is stored in a battery?",
+            "options": [
+            {"id": "a", "text": "Kinetic energy"},
+            {"id": "b", "text": "Thermal energy"},
+            {"id": "c", "text": "Chemical energy"},
+            {"id": "d", "text": "Nuclear energy"}
+            ],
+            "answerId": "c",
+            "explanation": "Batteries store energy in chemical form and convert it to electrical energy when connected to a circuit."
+        },
+        {
+            "id": "sq38",
+            "text": "What is the process of a liquid turning into a gas called?",
+            "options": [
+            {"id": "a", "text": "Condensation"},
+            {"id": "b", "text": "Evaporation"},
+            {"id": "c", "text": "Sublimation"},
+            {"id": "d", "text": "Freezing"}
+            ],
+            "answerId": "b",
+            "explanation": "Evaporation is the process by which a liquid turns into a gas or vapor."
+        },
+        {
+            "id": "sq39",
+            "text": "Which vitamin is essential for blood clotting?",
+            "options": [
+            {"id": "a", "text": "Vitamin A"},
+            {"id": "b", "text": "Vitamin B"},
+            {"id": "c", "text": "Vitamin C"},
+            {"id": "d", "text": "Vitamin K"}
+            ],
+            "answerId": "d",
+            "explanation": "Vitamin K plays a key role in helping the blood clot and preventing excessive bleeding."
+        },
+        {
+            "id": "sq40",
+            "text": "What is the unit of frequency?",
+            "options": [
+            {"id": "a", "text": "Hertz"},
+            {"id": "b", "text": "Watt"},
+            {"id": "c", "text": "Volt"},
+            {"id": "d", "text": "Ohm"}
+            ],
+            "answerId": "a",
+            "explanation": "The hertz (Hz) is the unit of frequency in the International System of Units (SI), defined as one cycle per second."
+        }
+        ]
+    },
+    {
+        "id": "ai-ml-1",
+        "title": "Artificial Intelligence & Machine Learning",
+        "description": "Comprehensive quiz on AI and ML concepts, algorithms, and applications.",
+        "timeLimitSec": 2400,
+        "questions": [
+        {
+            "id": "ai1",
+            "text": "What does the term 'Overfitting' in machine learning mean?",
+            "options": [
+            {"id": "a", "text": "The model performs well on training data but poorly on unseen data."},
+            {"id": "b", "text": "The model is too simple to capture patterns in the data."},
+            {"id": "c", "text": "The model has not been trained for enough epochs."},
+            {"id": "d", "text": "The model is trained on too much data."}
+            ],
+            "answerId": "a",
+            "explanation": "Overfitting occurs when a model learns the training data too well, including its noise and outliers, resulting in poor generalization to new data."
+        },
+        {
+            "id": "ai2",
+            "text": "Which of the following is a type of reinforcement learning?",
+            "options": [
+            {"id": "a", "text": "K-Means Clustering"},
+            {"id": "b", "text": "Q-Learning"},
+            {"id": "c", "text": "Linear Regression"},
+            {"id": "d", "text": "Principal Component Analysis"}
+            ],
+            "answerId": "b",
+            "explanation": "Q-Learning is a model-free reinforcement learning algorithm used to find the optimal action-selection policy."
+        },
+        {
+            "id": "ai3",
+            "text": "What is the primary goal of a cost function in a machine learning algorithm?",
+            "options": [
+            {"id": "a", "text": "To maximize the model's complexity."},
+            {"id": "b", "text": "To calculate the profit of deploying the model."},
+            {"id": "c", "text": "To measure how wrong the model's predictions are."},
+            {"id": "d", "text": "To select the best features for the model."}
+            ],
+            "answerId": "c",
+            "explanation": "A cost function (or loss function) quantifies the error between predicted values and actual values, which the algorithm aims to minimize."
+        },
+        {
+            "id": "ai4",
+            "text": "The 'curse of dimensionality' refers to:",
+            "options": [
+            {"id": "a", "text": "The difficulty of visualizing high-dimensional data."},
+            {"id": "b", "text": "The increase in computational cost and sparsity of data as dimensions grow."},
+            {"id": "c", "text": "The problem of having too many data points."},
+            {"id": "d", "text": "The challenge of naming variables in high-dimensional space."}
+            ],
+            "answerId": "b",
+            "explanation": "As the number of features or dimensions grows, the amount of data needed to generalize accurately grows exponentially, and data becomes sparse."
+        },
+        {
+            "id": "ai5",
+            "text": "Which activation function is known to suffer from the 'vanishing gradient' problem?",
+            "options": [
+            {"id": "a", "text": "ReLU (Rectified Linear Unit)"},
+            {"id": "b", "text": "Sigmoid"},
+            {"id": "c", "text": "Leaky ReLU"},
+            {"id": "d", "text": "Softmax"}
+            ],
+            "answerId": "b",
+            "explanation": "The sigmoid function squashes inputs to a range between 0 and 1, and its gradients are very small for large positive or negative inputs, causing gradients to vanish during backpropagation in deep networks."
+        },
+        {
+            "id": "ai6",
+            "text": "In a neural network, what is the purpose of the dropout layer?",
+            "options": [
+            {"id": "a", "text": "To increase the model's capacity."},
+            {"id": "b", "text": "To normalize the input data."},
+            {"id": "c", "text": "To prevent overfitting by randomly disabling neurons."},
+            {"id": "d", "text": "To speed up the training process."}
+            ],
+            "answerId": "c",
+            "explanation": "Dropout is a regularization technique where randomly selected neurons are ignored during training, which prevents units from co-adapting too much."
+        },
+        {
+            "id": "ai7",
+            "text": "What is the key difference between supervised and unsupervised learning?",
+            "options": [
+            {"id": "a", "text": "The speed of the algorithm."},
+            {"id": "b", "text": "The use of labeled data."},
+            {"id": "c", "text": "The type of hardware required."},
+            {"id": "d", "text": "The programming language used."}
+            ],
+            "answerId": "b",
+            "explanation": "Supervised learning uses labeled data to train models, while unsupervised learning finds patterns in data without pre-existing labels."
+        },
+        {
+            "id": "ai8",
+            "text": "Which of these is a common application of Natural Language Processing (NLP)?",
+            "options": [
+            {"id": "a", "text": "Object Detection in Images"},
+            {"id": "b", "text": "Sentiment Analysis"},
+            {"id": "c", "text": "Predicting Stock Prices"},
+            {"id": "d", "text": "Medical Diagnosis from X-Rays"}
+            ],
+            "answerId": "b",
+            "explanation": "Sentiment analysis involves classifying the emotional tone behind a body of text, which is a classic NLP task."
+        },
+        {
+            "id": "ai9",
+            "text": "The 'F1 Score' is defined as:",
+            "options": [
+            {"id": "a", "text": "The arithmetic mean of precision and recall."},
+            {"id": "b", "text": "The harmonic mean of precision and recall."},
+            {"id": "c", "text": "The difference between precision and recall."},
+            {"id": "d", "text": "The geometric mean of precision and recall."}
+            ],
+            "answerId": "b",
+            "explanation": "F1 Score is the harmonic mean of precision and recall, providing a single metric that balances both concerns."
+        },
+        {
+            "id": "ai10",
+            "text": "What does 'CNN' stand for in the context of deep learning?",
+            "options": [
+            {"id": "a", "text": "Cumulative Neural Network"},
+            {"id": "b", "text": "Convolutional Neural Network"},
+            {"id": "c", "text": "Complex Neural Network"},
+            {"id": "d", "text": "Conditional Neural Network"}
+            ],
+            "answerId": "b",
+            "explanation": "Convolutional Neural Networks (CNNs) are a class of deep neural networks, most commonly applied to analyzing visual imagery."
+        },
+        {
+            "id": "ai11",
+            "text": "What is the purpose of the 'bias' term in a neural network?",
+            "options": [
+            {"id": "a", "text": "To make the model more complex"},
+            {"id": "b", "text": "To shift the activation function"},
+            {"id": "c", "text": "To reduce overfitting"},
+            {"id": "d", "text": "To increase training speed"}
+            ],
+            "answerId": "b",
+            "explanation": "The bias term allows the activation function to be shifted left or right, helping the model fit the data better."
+        },
+        {
+            "id": "ai12",
+            "text": "Which algorithm is commonly used for dimensionality reduction?",
+            "options": [
+            {"id": "a", "text": "K-Nearest Neighbors"},
+            {"id": "b", "text": "Principal Component Analysis"},
+            {"id": "c", "text": "Decision Trees"},
+            {"id": "d", "text": "Support Vector Machines"}
+            ],
+            "answerId": "b",
+            "explanation": "PCA is an unsupervised technique used for dimensionality reduction while preserving as much variance as possible."
+        },
+        {
+            "id": "ai13",
+            "text": "What is 'transfer learning' in deep learning?",
+            "options": [
+            {"id": "a", "text": "Transferring data between different databases"},
+            {"id": "b", "text": "Using a pre-trained model on a new related task"},
+            {"id": "c", "text": "Moving models from CPU to GPU"},
+            {"id": "d", "text": "Converting between different model formats"}
+            ],
+            "answerId": "b",
+            "explanation": "Transfer learning involves taking a model trained on one task and reusing it on a different but related task, often with fine-tuning."
+        },
+        {
+            "id": "ai14",
+            "text": "Which of the following is NOT a type of machine learning?",
+            "options": [
+            {"id": "a", "text": "Supervised Learning"},
+            {"id": "b", "text": "Unsupervised Learning"},
+            {"id": "c", "text": "Reinforcement Learning"},
+            {"id": "d", "text": "Compiler Learning"}
+            ],
+            "answerId": "d",
+            "explanation": "The three main types of machine learning are supervised, unsupervised, and reinforcement learning. Compiler learning is not a recognized category."
+        },
+        {
+            "id": "ai15",
+            "text": "What is the purpose of the 'learning rate' in gradient descent?",
+            "options": [
+            {"id": "a", "text": "To determine how many epochs to train for"},
+            {"id": "b", "text": "To control the step size during parameter updates"},
+            {"id": "c", "text": "To set the initial values of weights"},
+            {"id": "d", "text": "To decide when to stop training"}
+            ],
+            "answerId": "b",
+            "explanation": "The learning rate controls how much to change the model in response to the estimated error each time the model weights are updated."
+        },
+        {
+            "id": "ai16",
+            "text": "Which evaluation metric is most appropriate for imbalanced classification problems?",
+            "options": [
+            {"id": "a", "text": "Accuracy"},
+            {"id": "b", "text": "Mean Squared Error"},
+            {"id": "c", "text": "F1-Score"},
+            {"id": "d", "text": "R-squared"}
+            ],
+            "answerId": "c",
+            "explanation": "F1-Score is better for imbalanced datasets as it considers both precision and recall, unlike accuracy which can be misleading."
+        },
+        {
+            "id": "ai17",
+            "text": "What is 'feature engineering'?",
+            "options": [
+            {"id": "a", "text": "Creating new features from existing data"},
+            {"id": "b", "text": "Designing the architecture of neural networks"},
+            {"id": "c", "text": "Engineering the hardware for ML applications"},
+            {"id": "d", "text": "Building the user interface for ML systems"}
+            ],
+            "answerId": "a",
+            "explanation": "Feature engineering involves creating new input features from existing ones to improve model performance."
+        },
+        {
+            "id": "ai18",
+            "text": "Which algorithm uses 'information gain' for splitting?",
+            "options": [
+            {"id": "a", "text": "Linear Regression"},
+            {"id": "b", "text": "K-Means"},
+            {"id": "c", "text": "Decision Trees"},
+            {"id": "d", "text": "Support Vector Machines"}
+            ],
+            "answerId": "c",
+            "explanation": "Decision trees often use information gain (or Gini impurity) to determine the best feature to split on at each node."
+        },
+        {
+            "id": "ai19",
+            "text": "What does 'RNN' stand for?",
+            "options": [
+            {"id": "a", "text": "Random Neural Network"},
+            {"id": "b", "text": "Recurrent Neural Network"},
+            {"id": "c", "text": "Rectified Neural Network"},
+            {"id": "d", "text": "Regularized Neural Network"}
+            ],
+            "answerId": "b",
+            "explanation": "RNN stands for Recurrent Neural Network, which is designed for sequential data and has connections that form directed cycles."
+        },
+        {
+            "id": "ai20",
+            "text": "What is the main advantage of using ensemble methods?",
+            "options": [
+            {"id": "a", "text": "They are always faster to train"},
+            {"id": "b", "text": "They combine multiple models to improve performance"},
+            {"id": "c", "text": "They require less data"},
+            {"id": "d", "text": "They are easier to interpret"}
+            ],
+            "answerId": "b",
+            "explanation": "Ensemble methods combine multiple models to reduce variance, bias, or improve predictions, often leading to better performance than individual models."
+        },
+        {
+            "id": "ai21",
+            "text": "Which of these is a clustering algorithm?",
+            "options": [
+            {"id": "a", "text": "Linear Regression"},
+            {"id": "b", "text": "K-Means"},
+            {"id": "c", "text": "Logistic Regression"},
+            {"id": "d", "text": "Support Vector Machines"}
+            ],
+            "answerId": "b",
+            "explanation": "K-Means is an unsupervised clustering algorithm that groups similar data points together."
+        },
+        {
+            "id": "ai22",
+            "text": "What is 'backpropagation'?",
+            "options": [
+            {"id": "a", "text": "A method for propagating data forward through the network"},
+            {"id": "b", "text": "An algorithm for calculating gradients in neural networks"},
+            {"id": "c", "text": "A technique for preventing overfitting"},
+            {"id": "d", "text": "A type of neural network architecture"}
+            ],
+            "answerId": "b",
+            "explanation": "Backpropagation is the algorithm used to calculate gradients of the loss function with respect to the weights in a neural network."
+        },
+        {
+            "id": "ai23",
+            "text": "Which activation function is most commonly used in hidden layers of deep networks?",
+            "options": [
+            {"id": "a", "text": "Sigmoid"},
+            {"id": "b", "text": "Tanh"},
+            {"id": "c", "text": "ReLU"},
+            {"id": "d", "text": "Softmax"}
+            ],
+            "answerId": "c",
+            "explanation": "ReLU (Rectified Linear Unit) is most commonly used in hidden layers due to its simplicity and effectiveness in preventing vanishing gradients."
+        },
+        {
+            "id": "ai24",
+            "text": "What is the purpose of 'batch normalization'?",
+            "options": [
+            {"id": "a", "text": "To normalize the input data"},
+            {"id": "b", "text": "To stabilize and accelerate training of deep networks"},
+            {"id": "c", "text": "To create batches of data for training"},
+            {"id": "d", "text": "To normalize the output predictions"}
+            ],
+            "answerId": "b",
+            "explanation": "Batch normalization normalizes the inputs to each layer, which helps stabilize and accelerate the training of deep neural networks."
+        },
+        {
+            "id": "ai25",
+            "text": "Which of these is a hyperparameter?",
+            "options": [
+            {"id": "a", "text": "Weights in a neural network"},
+            {"id": "b", "text": "Learning rate"},
+            {"id": "c", "text": "Model predictions"},
+            {"id": "d", "text": "Input data"}
+            ],
+            "answerId": "b",
+            "explanation": "Hyperparameters are parameters set before the learning process begins, such as learning rate, number of hidden layers, etc."
+        },
+        {
+            "id": "ai26",
+            "text": "What is 'cross-validation' used for?",
+            "options": [
+            {"id": "a", "text": "Validating the input data quality"},
+            {"id": "b", "text": "Assessing how the model will generalize to unseen data"},
+            {"id": "c", "text": "Cross-checking different models"},
+            {"id": "d", "text": "Validating the model architecture"}
+            ],
+            "answerId": "b",
+            "explanation": "Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent dataset."
+        },
+        {
+            "id": "ai27",
+            "text": "Which algorithm is based on the concept of 'maximum margin'?",
+            "options": [
+            {"id": "a", "text": "Decision Trees"},
+            {"id": "b", "text": "K-Nearest Neighbors"},
+            {"id": "c", "text": "Support Vector Machines"},
+            {"id": "d", "text": "Random Forest"}
+            ],
+            "answerId": "c",
+            "explanation": "Support Vector Machines aim to find the hyperplane that maximizes the margin between different classes."
+        },
+        {
+            "id": "ai28",
+            "text": "What is the purpose of 'early stopping'?",
+            "options": [
+            {"id": "a", "text": "To stop training when performance stops improving"},
+            {"id": "b", "text": "To stop training at a fixed number of epochs"},
+            {"id": "c", "text": "To stop training when accuracy reaches 100%"},
+            {"id": "d", "text": "To stop training during the night"}
+            ],
+            "answerId": "a",
+            "explanation": "Early stopping is a form of regularization that stops training when performance on a validation set stops improving."
+        },
+        {
+            "id": "ai29",
+            "text": "What does 'GPU' acceleration help with in deep learning?",
+            "options": [
+            {"id": "a", "text": "Data collection"},
+            {"id": "b", "text": "Model deployment"},
+            {"id": "c", "text": "Training speed"},
+            {"id": "d", "text": "Data preprocessing"}
+            ],
+            "answerId": "c",
+            "explanation": "GPUs are highly parallel processors that can significantly accelerate the matrix operations involved in training neural networks."
+        },
+        {
+            "id": "ai30",
+            "text": "Which of these is a regression algorithm?",
+            "options": [
+            {"id": "a", "text": "K-Means"},
+            {"id": "b", "text": "Linear Regression"},
+            {"id": "c", "text": "K-Nearest Neighbors for classification"},
+            {"id": "d", "text": "Decision Trees for classification"}
+            ],
+            "answerId": "b",
+            "explanation": "Linear Regression is used for predicting continuous values, making it a regression algorithm."
+        },
+        {
+            "id": "ai31",
+            "text": "What is 'regularization' used for?",
+            "options": [
+            {"id": "a", "text": "To make the model more complex"},
+            {"id": "b", "text": "To prevent overfitting"},
+            {"id": "c", "text": "To speed up training"},
+            {"id": "d", "text": "To improve data quality"}
+            ],
+            "answerId": "b",
+            "explanation": "Regularization techniques add constraints to the model to prevent overfitting and improve generalization."
+        },
+        {
+            "id": "ai32",
+            "text": "Which metric is used for evaluating regression models?",
+            "options": [
+            {"id": "a", "text": "Accuracy"},
+            {"id": "b", "text": "Precision"},
+            {"id": "c", "text": "Mean Absolute Error"},
+            {"id": "d", "text": "F1-Score"}
+            ],
+            "answerId": "c",
+            "explanation": "Mean Absolute Error (MAE) is commonly used for regression problems to measure the average magnitude of errors."
+        },
+        {
+            "id": "ai33",
+            "text": "What is the 'bias-variance tradeoff'?",
+            "options": [
+            {"id": "a", "text": "The tradeoff between model complexity and interpretability"},
+            {"id": "b", "text": "The tradeoff between underfitting and overfitting"},
+            {"id": "c", "text": "The tradeoff between training time and accuracy"},
+            {"id": "d", "text": "The tradeoff between data quantity and quality"}
+            ],
+            "answerId": "b",
+            "explanation": "The bias-variance tradeoff describes the tradeoff between a model's ability to minimize bias (underfitting) and variance (overfitting)."
+        },
+        {
+            "id": "ai34",
+            "text": "Which algorithm is an example of 'ensemble learning'?",
+            "options": [
+            {"id": "a", "text": "Linear Regression"},
+            {"id": "b", "text": "K-Means"},
+            {"id": "c", "text": "Random Forest"},
+            {"id": "d", "text": "Support Vector Machines"}
+            ],
+            "answerId": "c",
+            "explanation": "Random Forest is an ensemble method that combines multiple decision trees to improve performance."
+        },
+        {
+            "id": "ai35",
+            "text": "What is 'feature scaling'?",
+            "options": [
+            {"id": "a", "text": "Reducing the number of features"},
+            {"id": "b", "text": "Normalizing the range of feature values"},
+            {"id": "c", "text": "Selecting the most important features"},
+            {"id": "d", "text": "Creating new features"}
+            ],
+            "answerId": "b",
+            "explanation": "Feature scaling normalizes the range of independent variables or features of data, which is important for many machine learning algorithms."
+        },
+        {
+            "id": "ai36",
+            "text": "Which of these is a deep learning framework?",
+            "options": [
+            {"id": "a", "text": "Scikit-learn"},
+            {"id": "b", "text": "TensorFlow"},
+            {"id": "c", "text": "Pandas"},
+            {"id": "d", "text": "NumPy"}
+            ],
+            "answerId": "b",
+            "explanation": "TensorFlow is a popular open-source deep learning framework developed by Google."
+        },
+        {
+            "id": "ai37",
+            "text": "What is 'one-hot encoding' used for?",
+            "options": [
+            {"id": "a", "text": "Encoding numerical features"},
+            {"id": "b", "text": "Encoding categorical features"},
+            {"id": "c", "text": "Encoding text data"},
+            {"id": "d", "text": "Encoding image data"}
+            ],
+            "answerId": "b",
+            "explanation": "One-hot encoding converts categorical variables into a form that could be provided to ML algorithms to do a better job in prediction."
+        },
+        {
+            "id": "ai38",
+            "text": "What is the purpose of a 'validation set'?",
+            "options": [
+            {"id": "a", "text": "For final model evaluation"},
+            {"id": "b", "text": "For tuning hyperparameters"},
+            {"id": "c", "text": "For training the model"},
+            {"id": "d", "text": "For testing the model"}
+            ],
+            "answerId": "b",
+            "explanation": "The validation set is used to tune hyperparameters and make decisions about the model during training."
+        },
+        {
+            "id": "ai39",
+            "text": "Which algorithm uses 'gradient descent' for optimization?",
+            "options": [
+            {"id": "a", "text": "K-Means"},
+            {"id": "b", "text": "Linear Regression"},
+            {"id": "c", "text": "Decision Trees"},
+            {"id": "d", "text": "Random Forest"}
+            ],
+            "answerId": "b",
+            "explanation": "Linear Regression often uses gradient descent (or its variants) to minimize the cost function and find optimal parameters."
+        },
+        {
+            "id": "ai40",
+            "text": "What is 'unsupervised learning'?",
+            "options": [
+            {"id": "a", "text": "Learning without a teacher"},
+            {"id": "b", "text": "Learning without labeled data"},
+            {"id": "c", "text": "Learning without a computer"},
+            {"id": "d", "text": "Learning without a fixed curriculum"}
+            ],
+            "answerId": "b",
+            "explanation": "Unsupervised learning involves training models on data without labeled responses, focusing on finding patterns and structures in the data."
+        }
+        ]
+    },
+    {
+        "id": "dsa-1",
+        "title": "Data Structures and Algorithms",
+        "description": "Comprehensive quiz on data structures, algorithms, and computational complexity.",
+        "timeLimitSec": 2400,
+        "questions": [
+        {
+            "id": "ds1",
+            "text": "What is the time complexity of accessing an element in an array by its index?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(n)"},
+            {"id": "c", "text": "O(log n)"},
+            {"id": "d", "text": "O(n²)"}
+            ],
+            "answerId": "a",
+            "explanation": "Array elements are stored in contiguous memory locations, so the address of any element can be calculated directly, leading to constant time access."
+        },
+        {
+            "id": "ds2",
+            "text": "Which data structure operates on the 'Last In, First Out' (LIFO) principle?",
+            "options": [
+            {"id": "a", "text": "Queue"},
+            {"id": "b", "text": "Stack"},
+            {"id": "c", "text": "Linked List"},
+            {"id": "d", "text": "Tree"}
+            ],
+            "answerId": "b",
+            "explanation": "A stack is a linear data structure where the last element added is the first one to be removed (LIFO)."
+        },
+        {
+            "id": "ds3",
+            "text": "In a binary search tree, what is the worst-case time complexity for searching for a key?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(log n)"},
+            {"id": "c", "text": "O(n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "c",
+            "explanation": "The worst-case time complexity for a search in a BST is O(n), which occurs when the tree is skewed (effectively a linked list)."
+        },
+        {
+            "id": "ds4",
+            "text": "The process of visiting all nodes in a tree exactly once is called:",
+            "options": [
+            {"id": "a", "text": "Searching"},
+            {"id": "b", "text": "Traversal"},
+            {"id": "c", "text": "Hashing"},
+            {"id": "d", "text": "Sorting"}
+            ],
+            "answerId": "b",
+            "explanation": "Tree traversal refers to the process of visiting (checking and/or updating) each node in a tree data structure exactly once."
+        },
+        {
+            "id": "ds5",
+            "text": "Which sorting algorithm has the best worst-case time complexity?",
+            "options": [
+            {"id": "a", "text": "Bubble Sort"},
+            {"id": "b", "text": "Quick Sort"},
+            {"id": "c", "text": "Merge Sort"},
+            {"id": "d", "text": "Insertion Sort"}
+            ],
+            "answerId": "c",
+            "explanation": "Merge Sort has a consistent O(n log n) time complexity in all cases (best, average, and worst), unlike Quick Sort which can degrade to O(n²)."
+        },
+        {
+            "id": "ds6",
+            "text": "What is the main advantage of a linked list over an array?",
+            "options": [
+            {"id": "a", "text": "Faster access time for elements."},
+            {"id": "b", "text": "Efficient memory usage."},
+            {"id": "c", "text": "Dynamic size and ease of insertion/deletion."},
+            {"id": "d", "text": "Built-in sorting algorithms."}
+            ],
+            "answerId": "c",
+            "explanation": "Linked lists can easily grow and shrink in size, and inserting or deleting a node does not require shifting elements, unlike in an array."
+        },
+        {
+            "id": "ds7",
+            "text": "Which of the following is a stable sorting algorithm?",
+            "options": [
+            {"id": "a", "text": "Heap Sort"},
+            {"id": "b", "text": "Quick Sort"},
+            {"id": "c", "text": "Selection Sort"},
+            {"id": "d", "text": "Bubble Sort"}
+            ],
+            "answerId": "d",
+            "explanation": "A stable sorting algorithm preserves the relative order of records with equal keys. Bubble Sort is stable, while Heap Sort and Quick Sort are typically not."
+        },
+        {
+            "id": "ds8",
+            "text": "In graph theory, what does BFS stand for?",
+            "options": [
+            {"id": "a", "text": "Best First Search"},
+            {"id": "b", "text": "Breadth-First Search"},
+            {"id": "c", "text": "Binary Find Search"},
+            {"id": "d", "text": "Backtracking First Search"}
+            ],
+            "answerId": "b",
+            "explanation": "Breadth-First Search (BFS) is a graph traversal algorithm that explores all the neighbor nodes at the present depth before moving on to nodes at the next depth level."
+        },
+        {
+            "id": "ds9",
+            "text": "What is the time complexity of the Heapify operation in a binary heap?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(n)"},
+            {"id": "c", "text": "O(log n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "c",
+            "explanation": "The Heapify operation, which maintains the heap property, has a time complexity of O(log n) as it may need to traverse the height of the tree."
+        },
+        {
+            "id": "ds10",
+            "text": "The 'Divide and Conquer' strategy is used in which of these algorithms?",
+            "options": [
+            {"id": "a", "text": "Bubble Sort"},
+            {"id": "b", "text": "Insertion Sort"},
+            {"id": "c", "text": "Merge Sort"},
+            {"id": "d", "text": "Selection Sort"}
+            ],
+            "answerId": "c",
+            "explanation": "Merge Sort is a classic example of a divide and conquer algorithm. It recursively divides the problem into subproblems, solves them, and then combines the solutions."
+        },
+        {
+            "id": "ds11",
+            "text": "What is the time complexity of binary search on a sorted array?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(n)"},
+            {"id": "c", "text": "O(log n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "c",
+            "explanation": "Binary search repeatedly divides the search interval in half, resulting in O(log n) time complexity."
+        },
+        {
+            "id": "ds12",
+            "text": "Which data structure is typically used for implementing a LRU Cache?",
+            "options": [
+            {"id": "a", "text": "Array"},
+            {"id": "b", "text": "Linked List"},
+            {"id": "c", "text": "Hash Table + Doubly Linked List"},
+            {"id": "d", "text": "Binary Search Tree"}
+            ],
+            "answerId": "c",
+            "explanation": "LRU Cache is efficiently implemented using a combination of Hash Table (for O(1) access) and Doubly Linked List (for maintaining order)."
+        },
+        {
+            "id": "ds13",
+            "text": "What is the space complexity of Merge Sort?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(log n)"},
+            {"id": "c", "text": "O(n)"},
+            {"id": "d", "text": "O(n²)"}
+            ],
+            "answerId": "c",
+            "explanation": "Merge Sort requires O(n) additional space for the temporary arrays used during merging."
+        },
+        {
+            "id": "ds14",
+            "text": "Which of the following is NOT a linear data structure?",
+            "options": [
+            {"id": "a", "text": "Array"},
+            {"id": "b", "text": "Linked List"},
+            {"id": "c", "text": "Stack"},
+            {"id": "d", "text": "Tree"}
+            ],
+            "answerId": "d",
+            "explanation": "Tree is a non-linear data structure where data is organized in a hierarchical manner."
+        },
+        {
+            "id": "ds15",
+            "text": "What is the time complexity of inserting an element at the beginning of an array?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(n)"},
+            {"id": "c", "text": "O(log n)"},
+            {"id": "d", "text": "O(n²)"}
+            ],
+            "answerId": "b",
+            "explanation": "Inserting at the beginning of an array requires shifting all existing elements, which takes O(n) time."
+        },
+        {
+            "id": "ds16",
+            "text": "Which algorithm is used to find the shortest path in an unweighted graph?",
+            "options": [
+            {"id": "a", "text": "Dijkstra's Algorithm"},
+            {"id": "b", "text": "Bellman-Ford Algorithm"},
+            {"id": "c", "text": "Breadth-First Search"},
+            {"id": "d", "text": "Depth-First Search"}
+            ],
+            "answerId": "c",
+            "explanation": "BFS can find the shortest path in an unweighted graph because it explores nodes in order of their distance from the source."
+        },
+        {
+            "id": "ds17",
+            "text": "What is the worst-case time complexity of Quick Sort?",
+            "options": [
+            {"id": "a", "text": "O(n)"},
+            {"id": "b", "text": "O(n log n)"},
+            {"id": "c", "text": "O(n²)"},
+            {"id": "d", "text": "O(log n)"}
+            ],
+            "answerId": "c",
+            "explanation": "Quick Sort's worst-case time complexity is O(n²), which occurs when the pivot is always the smallest or largest element."
+        },
+        {
+            "id": "ds18",
+            "text": "Which data structure uses the 'First In, First Out' (FIFO) principle?",
+            "options": [
+            {"id": "a", "text": "Stack"},
+            {"id": "b", "text": "Queue"},
+            {"id": "c", "text": "Tree"},
+            {"id": "d", "text": "Graph"}
+            ],
+            "answerId": "b",
+            "explanation": "A queue is a linear data structure that follows the FIFO (First In, First Out) principle."
+        },
+        {
+            "id": "ds19",
+            "text": "What is the time complexity of building a heap from an array?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(n)"},
+            {"id": "c", "text": "O(log n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "b",
+            "explanation": "Building a heap from an unsorted array can be done in O(n) time using the bottom-up heap construction method."
+        },
+        {
+            "id": "ds20",
+            "text": "Which searching algorithm requires the data to be sorted?",
+            "options": [
+            {"id": "a", "text": "Linear Search"},
+            {"id": "b", "text": "Binary Search"},
+            {"id": "c", "text": "Jump Search"},
+            {"id": "d", "text": "Both B and C"}
+            ],
+            "answerId": "d",
+            "explanation": "Both Binary Search and Jump Search require the data to be sorted beforehand."
+        },
+        {
+            "id": "ds21",
+            "text": "What is the time complexity of Depth-First Search (DFS) on a graph?",
+            "options": [
+            {"id": "a", "text": "O(V)"},
+            {"id": "b", "text": "O(E)"},
+            {"id": "c", "text": "O(V + E)"},
+            {"id": "d", "text": "O(V × E)"}
+            ],
+            "answerId": "c",
+            "explanation": "DFS time complexity is O(V + E), where V is the number of vertices and E is the number of edges."
+        },
+        {
+            "id": "ds22",
+            "text": "Which sorting algorithm is in-place and has O(n log n) average time complexity?",
+            "options": [
+            {"id": "a", "text": "Merge Sort"},
+            {"id": "b", "text": "Quick Sort"},
+            {"id": "c", "text": "Heap Sort"},
+            {"id": "d", "text": "Both B and C"}
+            ],
+            "answerId": "d",
+            "explanation": "Both Quick Sort and Heap Sort are in-place sorting algorithms with O(n log n) average time complexity."
+        },
+        {
+            "id": "ds23",
+            "text": "What is the main advantage of a hash table?",
+            "options": [
+            {"id": "a", "text": "Maintains sorted order"},
+            {"id": "b", "text": "O(1) average case time for search, insert, and delete"},
+            {"id": "c", "text": "Efficient range queries"},
+            {"id": "d", "text": "Minimal memory usage"}
+            ],
+            "answerId": "b",
+            "explanation": "Hash tables provide O(1) average-case time complexity for basic operations like search, insert, and delete."
+        },
+        {
+            "id": "ds24",
+            "text": "Which data structure is best for implementing a priority queue?",
+            "options": [
+            {"id": "a", "text": "Array"},
+            {"id": "b", "text": "Linked List"},
+            {"id": "c", "text": "Heap"},
+            {"id": "d", "text": "Stack"}
+            ],
+            "answerId": "c",
+            "explanation": "Heaps provide efficient implementation of priority queue operations with O(log n) time for insert and extract-min/max."
+        },
+        {
+            "id": "ds25",
+            "text": "What is the time complexity of finding the minimum element in a min-heap?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(log n)"},
+            {"id": "c", "text": "O(n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "a",
+            "explanation": "In a min-heap, the minimum element is always at the root, so it can be found in O(1) time."
+        },
+        {
+            "id": "ds26",
+            "text": "Which algorithm is used to detect cycles in a directed graph?",
+            "options": [
+            {"id": "a", "text": "BFS"},
+            {"id": "b", "text": "DFS"},
+            {"id": "c", "text": "Dijkstra's Algorithm"},
+            {"id": "d", "text": "Prim's Algorithm"}
+            ],
+            "answerId": "b",
+            "explanation": "Depth-First Search can be modified to detect cycles in a directed graph by tracking nodes in the current recursion stack."
+        },
+        {
+            "id": "ds27",
+            "text": "What is the space complexity of recursive DFS on a graph?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(log n)"},
+            {"id": "c", "text": "O(n)"},
+            {"id": "d", "text": "O(n²)"}
+            ],
+            "answerId": "c",
+            "explanation": "Recursive DFS uses O(n) space for the recursion call stack in the worst case."
+        },
+        {
+            "id": "ds28",
+            "text": "Which sorting algorithm is based on the idea of comparing adjacent elements?",
+            "options": [
+            {"id": "a", "text": "Quick Sort"},
+            {"id": "b", "text": "Merge Sort"},
+            {"id": "c", "text": "Bubble Sort"},
+            {"id": "d", "text": "Heap Sort"}
+            ],
+            "answerId": "c",
+            "explanation": "Bubble Sort repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order."
+        },
+        {
+            "id": "ds29",
+            "text": "What is the time complexity of inserting an element in a balanced BST?",
+            "options": [
+            {"id": "a", "text": "O(1)"},
+            {"id": "b", "text": "O(log n)"},
+            {"id": "c", "text": "O(n)"},
+            {"id": "d", "text": "O(n log n)"}
+            ],
+            "answerId": "b",
+            "explanation": "In a balanced BST (like AVL or Red-Black tree), insertion takes O(log n) time."
+        },
+        {
+            "id": "ds30",
+            "text": "Which data structure allows efficient searching, insertion, and deletion in O(log n) time?",
+            "options": [
+            {"id": "a", "text": "Array"},
+            {"id": "b", "text": "Linked List"},
+            {"id": "c", "text": "Hash Table"},
+            {"id": "d", "text": "Balanced BST"}
+            ],
+            "answerId": "d",
+            "explanation": "Balanced Binary Search Trees provide O(log n) time complexity for search, insert, and delete operations."
+        },
+        {
+            "id": "ds31",
+            "text": "What is the purpose of dynamic programming?",
+            "options": [
+            {"id": "a", "text": "To solve problems by breaking them into overlapping subproblems"},
+            {"id": "b", "text": "To solve problems using random choices"},
+            {"id": "c", "text": "To solve problems using divide and conquer"},
+            {"id": "d", "text": "To solve problems using greedy choices"}
+            ],
+            "answerId": "a",
+            "explanation": "Dynamic programming solves complex problems by breaking them down into simpler overlapping subproblems and storing their solutions."
+        },
+        {
+            "id": "ds32",
+            "text": "Which algorithm finds the minimum spanning tree of a graph?",
+            "options": [
+            {"id": "a", "text": "Dijkstra's Algorithm"},
+            {"id": "b", "text": "Prim's Algorithm"},
+            {"id": "c", "text": "Bellman-Ford Algorithm"},
+            {"id": "d", "text": "Floyd-Warshall Algorithm"}
+            ],
+            "answerId": "b",
+            "explanation": "Prim's Algorithm is used to find the minimum spanning tree of a weighted undirected graph."
+        },
+        {
+            "id": "ds33",
+            "text": "What is the time complexity of matrix multiplication for two n×n matrices?",
+            "options": [
+            {"id": "a", "text": "O(n²)"},
+            {"id": "b", "text": "O(n³)"},
+            {"id": "c", "text": "O(n log n)"},
+            {"id": "d", "text": "O(2^n)"}
+            ],
+            "answerId": "b",
+            "explanation": "The standard matrix multiplication algorithm has O(n³) time complexity."
+        },
+        {
+            "id": "ds34",
+            "text": "Which data structure is used in the implementation of recursion?",
+            "options": [
+            {"id": "a", "text": "Queue"},
+            {"id": "b", "text": "Stack"},
+            {"id": "c", "text": "Tree"},
+            {"id": "d", "text": "Graph"}
+            ],
+            "answerId": "b",
+            "explanation": "The system stack is used to manage function calls in recursion, storing return addresses and local variables."
+        },
+        {
+            "id": "ds35",
+            "text": "What is the time complexity of the Floyd-Warshall algorithm?",
+            "options": [
+            {"id": "a", "text": "O(V²)"},
+            {"id": "b", "text": "O(V³)"},
+            {"id": "c", "text": "O(V × E)"},
+            {"id": "d", "text": "O(V log V)"}
+            ],
+            "answerId": "b",
+            "explanation": "Floyd-Warshall algorithm for all-pairs shortest paths has O(V³) time complexity."
+        },
+        {
+            "id": "ds36",
+            "text": "Which searching algorithm has the best worst-case time complexity?",
+            "options": [
+            {"id": "a", "text": "Linear Search"},
+            {"id": "b", "text": "Binary Search"},
+            {"id": "c", "text": "Jump Search"},
+            {"id": "d", "text": "Interpolation Search"}
+            ],
+            "answerId": "b",
+            "explanation": "Binary Search has O(log n) worst-case time complexity, which is better than other searching algorithms."
+        },
+        {
+            "id": "ds37",
+            "text": "What is the main disadvantage of adjacency matrix representation of graphs?",
+            "options": [
+            {"id": "a", "text": "Difficult to implement"},
+            {"id": "b", "text": "Inefficient for sparse graphs"},
+            {"id": "c", "text": "Cannot represent weighted graphs"},
+            {"id": "d", "text": "Slow traversal"}
+            ],
+            "answerId": "b",
+            "explanation": "Adjacency matrix uses O(V²) space, which is inefficient for sparse graphs (graphs with few edges)."
+        },
+        {
+            "id": "ds38",
+            "text": "Which algorithm uses a greedy approach?",
+            "options": [
+            {"id": "a", "text": "Dijkstra's Algorithm"},
+            {"id": "b", "text": "Merge Sort"},
+            {"id": "c", "text": "Quick Sort"},
+            {"id": "d", "text": "Binary Search"}
+            ],
+            "answerId": "a",
+            "explanation": "Dijkstra's Algorithm uses a greedy approach to find the shortest path from a source to all other vertices."
+        },
+        {
+            "id": "ds39",
+            "text": "What is the time complexity of Radix Sort for n numbers with maximum d digits?",
+            "options": [
+            {"id": "a", "text": "O(n)"},
+            {"id": "b", "text": "O(n log n)"},
+            {"id": "c", "text": "O(d × n)"},
+            {"id": "d", "text": "O(n²)"}
+            ],
+            "answerId": "c",
+            "explanation": "Radix Sort has O(d × n) time complexity, where d is the number of digits in the maximum number."
+        },
+        {
+            "id": "ds40",
+            "text": "Which data structure is used for implementing recursion?",
+            "options": [
+            {"id": "a", "text": "Queue"},
+            {"id": "b", "text": "Stack"},
+            {"id": "c", "text": "Tree"},
+            {"id": "d", "text": "Graph"}
+            ],
+            "answerId": "b",
+            "explanation": "The call stack is used to manage function calls in recursion, making stack the fundamental data structure for recursive implementations."
+        }
+        ]
+    },
+    {
+        "id": "cn-1",
+        "title": "Computer Networks",
+        "description": "Comprehensive quiz on computer networking concepts, protocols, and architectures.",
+        "timeLimitSec": 2400,
+        "questions": [
+        {
+            "id": "cn1",
+            "text": "What does the 'HTTP' in a web URL stand for?",
+            "options": [
+            {"id": "a", "text": "Hyper Text Transfer Protocol"},
+            {"id": "b", "text": "High Transfer Text Protocol"},
+            {"id": "c", "text": "Hyper Transfer Text Protocol"},
+            {"id": "d", "text": "High-Level Text Transfer Protocol"}
+            ],
+            "answerId": "a",
+            "explanation": "HTTP is the foundation of data communication for the World Wide Web. It is an application protocol for distributed, collaborative, hypermedia information systems."
+        },
+        {
+            "id": "cn2",
+            "text": "Which layer of the OSI model is responsible for logical addressing and routing?",
+            "options": [
+            {"id": "a", "text": "Data Link Layer"},
+            {"id": "b", "text": "Network Layer"},
+            {"id": "c", "text": "Transport Layer"},
+            {"id": "d", "text": "Physical Layer"}
+            ],
+            "answerId": "b",
+            "explanation": "The Network Layer (Layer 3) is responsible for packet forwarding including routing through intermediate routers, and logical addressing (like IP addresses)."
+        },
+        {
+            "id": "cn3",
+            "text": "What is the primary purpose of the TCP protocol?",
+            "options": [
+            {"id": "a", "text": "To provide connectionless, best-effort delivery."},
+            {"id": "b", "text": "To provide connection-oriented, reliable byte stream service."},
+            {"id": "c", "text": "To map domain names to IP addresses."},
+            {"id": "d", "text": "To transfer files between hosts."}
+            ],
+            "answerId": "b",
+            "explanation": "Transmission Control Protocol (TCP) is a connection-oriented protocol that provides reliable, ordered, and error-checked delivery of a stream of bytes."
+        },
+        {
+            "id": "cn4",
+            "text": "What is the default port number for HTTPS?",
+            "options": [
+            {"id": "a", "text": "80"},
+            {"id": "b", "text": "25"},
+            {"id": "c", "text": "443"},
+            {"id": "d", "text": "21"}
+            ],
+            "answerId": "c",
+            "explanation": "Port 443 is the standard port used for HTTPS (HTTP Secure), which is HTTP over TLS/SSL encryption."
+        },
+        {
+            "id": "cn5",
+            "text": "Which device operates at the Data Link layer of the OSI model?",
+            "options": [
+            {"id": "a", "text": "Router"},
+            {"id": "b", "text": "Hub"},
+            {"id": "c", "text": "Switch"},
+            {"id": "d", "text": "Repeater"}
+            ],
+            "answerId": "c",
+            "explanation": "A network switch operates at the Data Link Layer (Layer 2). It uses MAC addresses to forward data to the correct destination within a local area network (LAN)."
+        },
+        {
+            "id": "cn6",
+            "text": "What does DNS stand for?",
+            "options": [
+            {"id": "a", "text": "Data Name System"},
+            {"id": "b", "text": "Domain Name System"},
+            {"id": "c", "text": "Digital Network System"},
+            {"id": "d", "text": "Domain Network Service"}
+            ],
+            "answerId": "b",
+            "explanation": "The Domain Name System (DNS) is the phonebook of the Internet. It translates human-readable domain names (like www.google.com) to machine-readable IP addresses."
+        },
+        {
+            "id": "cn7",
+            "text": "What is the main difference between IPv4 and IPv6?",
+            "options": [
+            {"id": "a", "text": "IPv6 is faster."},
+            {"id": "b", "text": "IPv6 has a larger address space."},
+            {"id": "c", "text": "IPv6 is more secure by default."},
+            {"id": "d", "text": "IPv6 is only for wireless networks."}
+            ],
+            "answerId": "b",
+            "explanation": "The most significant difference is the size of the address space. IPv4 uses 32-bit addresses, allowing for about 4.3 billion addresses, while IPv6 uses 128-bit addresses, providing a virtually unlimited number."
+        },
+        {
+            "id": "cn8",
+            "text": "Which protocol is used to dynamically assign IP addresses to devices on a network?",
+            "options": [
+            {"id": "a", "text": "DNS"},
+            {"id": "b", "text": "HTTP"},
+            {"id": "c", "text": "DHCP"},
+            {"id": "d", "text": "FTP"}
+            ],
+            "answerId": "c",
+            "explanation": "The Dynamic Host Configuration Protocol (DHCP) is a network management protocol used to automatically assign IP addresses and other communication parameters to devices on a network."
+        },
+        {
+            "id": "cn9",
+            "text": "What is a 'firewall' used for in a network?",
+            "options": [
+            {"id": "a", "text": "To increase network speed."},
+            {"id": "b", "text": "To block unwanted traffic and protect from unauthorized access."},
+            {"id": "c", "text": "To connect multiple networks together."},
+            {"id": "d", "text": "To assign IP addresses automatically."}
+            ],
+            "answerId": "b",
+            "explanation": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies."
+        },
+        {
+            "id": "cn10",
+            "text": "The 'Ping' command uses which protocol?",
+            "options": [
+            {"id": "a", "text": "TCP"},
+            {"id": "b", "text": "UDP"},
+            {"id": "c", "text": "ICMP"},
+            {"id": "d", "text": "HTTP"}
+            ],
+            "answerId": "c",
+            "explanation": "The ping command uses the Internet Control Message Protocol (ICMP) Echo Request and Echo Reply messages to test the reachability of a host on an IP network."
+        },
+        {
+            "id": "cn11",
+            "text": "What is the purpose of NAT (Network Address Translation)?",
+            "options": [
+            {"id": "a", "text": "To translate domain names to IP addresses"},
+            {"id": "b", "text": "To translate private IP addresses to public IP addresses"},
+            {"id": "c", "text": "To translate between different network protocols"},
+            {"id": "d", "text": "To translate between IPv4 and IPv6"}
+            ],
+            "answerId": "b",
+            "explanation": "NAT allows multiple devices on a local network to share a single public IP address, conserving IPv4 addresses and providing security."
+        },
+        {
+            "id": "cn12",
+            "text": "Which protocol is used for secure remote login to network devices?",
+            "options": [
+            {"id": "a", "text": "HTTP"},
+            {"id": "b", "text": "FTP"},
+            {"id": "c", "text": "Telnet"},
+            {"id": "d", "text": "SSH"}
+            ],
+            "answerId": "d",
+            "explanation": "SSH (Secure Shell) provides a secure channel over an unsecured network, encrypting the connection for remote login and other network services."
+        },
+        {
+            "id": "cn13",
+            "text": "What is the maximum speed of Gigabit Ethernet?",
+            "options": [
+            {"id": "a", "text": "100 Mbps"},
+            {"id": "b", "text": "1 Gbps"},
+            {"id": "c", "text": "10 Gbps"},
+            {"id": "d", "text": "100 Gbps"}
+            ],
+            "answerId": "b",
+            "explanation": "Gigabit Ethernet has a maximum data rate of 1 gigabit per second (1000 Mbps)."
+        },
+        {
+            "id": "cn14",
+            "text": "Which layer of the OSI model is responsible for error detection and correction?",
+            "options": [
+            {"id": "a", "text": "Physical Layer"},
+            {"id": "b", "text": "Data Link Layer"},
+            {"id": "c", "text": "Network Layer"},
+            {"id": "d", "text": "Transport Layer"}
+            ],
+            "answerId": "b",
+            "explanation": "The Data Link Layer provides error detection and may request retransmission of corrupted frames."
+        },
+        {
+            "id": "cn15",
+            "text": "What is the purpose of ARP (Address Resolution Protocol)?",
+            "options": [
+            {"id": "a", "text": "To resolve IP addresses to MAC addresses"},
+            {"id": "b", "text": "To resolve domain names to IP addresses"},
+            {"id": "c", "text": "To resolve MAC addresses to IP addresses"},
+            {"id": "d", "text": "To resolve IP addresses to domain names"}
+            ],
+            "answerId": "a",
+            "explanation": "ARP is used to map IP network addresses to the hardware addresses (MAC addresses) used by a data link protocol."
+        },
+        {
+            "id": "cn16",
+            "text": "Which wireless security protocol is considered the most secure?",
+            "options": [
+            {"id": "a", "text": "WEP"},
+            {"id": "b", "text": "WPA"},
+            {"id": "c", "text": "WPA2"},
+            {"id": "d", "text": "WPA3"}
+            ],
+            "answerId": "d",
+            "explanation": "WPA3 is the latest and most secure Wi-Fi security protocol, providing stronger encryption and better protection against attacks."
+        },
+        {
+            "id": "cn17",
+            "text": "What is the default subnet mask for a Class C IP address?",
+            "options": [
+            {"id": "a", "text": "255.0.0.0"},
+            {"id": "b", "text": "255.255.0.0"},
+            {"id": "c", "text": "255.255.255.0"},
+            {"id": "d", "text": "255.255.255.255"}
+            ],
+            "answerId": "c",
+            "explanation": "Class C IP addresses use the default subnet mask 255.255.255.0, allowing for 254 hosts per network."
+        },
+        {
+            "id": "cn18",
+            "text": "Which protocol is used for sending email?",
+            "options": [
+            {"id": "a", "text": "POP3"},
+            {"id": "b", "text": "IMAP"},
+            {"id": "c", "text": "SMTP"},
+            {"id": "d", "text": "HTTP"}
+            ],
+            "answerId": "c",
+            "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending and relaying email messages between mail servers."
+        },
+        {
+            "id": "cn19",
+            "text": "What is the purpose of a 'router' in a network?",
+            "options": [
+            {"id": "a", "text": "To connect devices within the same network"},
+            {"id": "b", "text": "To connect different networks together"},
+            {"id": "c", "text": "To amplify network signals"},
+            {"id": "d", "text": "To convert digital signals to analog"}
+            ],
+            "answerId": "b",
+            "explanation": "A router connects multiple networks and forwards data packets between them based on their IP addresses."
+        },
+        {
+            "id": "cn20",
+            "text": "Which protocol provides connectionless transport service?",
+            "options": [
+            {"id": "a", "text": "TCP"},
+            {"id": "b", "text": "UDP"},
+            {"id": "c", "text": "HTTP"},
+            {"id": "d", "text": "FTP"}
+            ],
+            "answerId": "b",
+            "explanation": "UDP (User Datagram Protocol) provides a connectionless, unreliable transport service for applications that don't require TCP's reliability."
+        },
+        {
+            "id": "cn21",
+            "text": "What is the purpose of SSL/TLS?",
+            "options": [
+            {"id": "a", "text": "To compress data for faster transmission"},
+            {"id": "b", "text": "To provide secure communication over a computer network"},
+            {"id": "c", "text": "To route packets between networks"},
+            {"id": "d", "text": "To assign IP addresses dynamically"}
+            ],
+            "answerId": "b",
+            "explanation": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) provides encryption, authentication, and integrity for network communications."
+        },
+        {
+            "id": "cn22",
+            "text": "Which device operates at the Physical layer of the OSI model?",
+            "options": [
+            {"id": "a", "text": "Router"},
+            {"id": "b", "text": "Switch"},
+            {"id": "c", "text": "Hub"},
+            {"id": "d", "text": "Bridge"}
+            ],
+            "answerId": "c",
+            "explanation": "A hub operates at the Physical Layer, simply repeating electrical signals to all connected devices without any intelligence."
+        },
+        {
+            "id": "cn23",
+            "text": "What is the maximum length of an Ethernet cable for reliable communication?",
+            "options": [
+            {"id": "a", "text": "50 meters"},
+            {"id": "b", "text": "100 meters"},
+            {"id": "c", "text": "150 meters"},
+            {"id": "d", "text": "200 meters"}
+            ],
+            "answerId": "b",
+            "explanation": "The maximum reliable length for standard Ethernet cable (CAT5/6) is 100 meters (328 feet)."
+        },
+        {
+            "id": "cn24",
+            "text": "Which protocol is used for file transfer?",
+            "options": [
+            {"id": "a", "text": "HTTP"},
+            {"id": "b", "text": "SMTP"},
+            {"id": "c", "text": "FTP"},
+            {"id": "d", "text": "DNS"}
+            ],
+            "answerId": "c",
+            "explanation": "FTP (File Transfer Protocol) is specifically designed for transferring files between a client and server on a computer network."
+        },
+        {
+            "id": "cn25",
+            "text": "What is a 'MAC address'?",
+            "options": [
+            {"id": "a", "text": "A unique identifier for network interfaces"},
+            {"id": "b", "text": "An address used for routing between networks"},
+            {"id": "c", "text": "A human-readable name for a device"},
+            {"id": "d", "text": "A temporary address assigned by DHCP"}
+            ],
+            "answerId": "a",
+            "explanation": "A MAC (Media Access Control) address is a unique identifier assigned to network interfaces for communications at the data link layer."
+        },
+        {
+            "id": "cn26",
+            "text": "Which network topology requires a central device like a hub or switch?",
+            "options": [
+            {"id": "a", "text": "Bus Topology"},
+            {"id": "b", "text": "Ring Topology"},
+            {"id": "c", "text": "Star Topology"},
+            {"id": "d", "text": "Mesh Topology"}
+            ],
+            "answerId": "c",
+            "explanation": "Star topology requires a central device (hub or switch) to which all other devices connect."
+        },
+        {
+            "id": "cn27",
+            "text": "What is the purpose of QoS (Quality of Service) in networking?",
+            "options": [
+            {"id": "a", "text": "To improve overall network speed"},
+            {"id": "b", "text": "To prioritize certain types of traffic"},
+            {"id": "c", "text": "To increase network security"},
+            {"id": "d", "text": "To reduce network cost"}
+            ],
+            "answerId": "b",
+            "explanation": "QoS mechanisms prioritize network traffic to ensure better performance for critical applications like voice and video."
+        },
+        {
+            "id": "cn28",
+            "text": "Which protocol is used for retrieving email from a server?",
+            "options": [
+            {"id": "a", "text": "SMTP"},
+            {"id": "b", "text": "POP3/IMAP"},
+            {"id": "c", "text": "HTTP"},
+            {"id": "d", "text": "FTP"}
+            ],
+            "answerId": "b",
+            "explanation": "POP3 and IMAP are used for retrieving email from a mail server to a client device."
+        },
+        {
+            "id": "cn29",
+            "text": "What is a 'VPN' used for?",
+            "options": [
+            {"id": "a", "text": "To create a faster internet connection"},
+            {"id": "b", "text": "To create a secure connection over a public network"},
+            {"id": "c", "text": "To connect to a local network only"},
+            {"id": "d", "text": "To block unwanted websites"}
+            ],
+            "answerId": "b",
+            "explanation": "A VPN (Virtual Private Network) extends a private network across a public network, enabling secure data transmission."
+        },
+        {
+            "id": "cn30",
+            "text": "Which wireless standard operates at 5 GHz frequency?",
+            "options": [
+            {"id": "a", "text": "802.11b"},
+            {"id": "b", "text": "802.11g"},
+            {"id": "c", "text": "802.11n"},
+            {"id": "d", "text": "802.11ac"}
+            ],
+            "answerId": "d",
+            "explanation": "802.11ac operates primarily in the 5 GHz band, offering higher speeds and less interference than 2.4 GHz standards."
+        },
+        {
+            "id": "cn31",
+            "text": "What is the purpose of 'subnetting'?",
+            "options": [
+            {"id": "a", "text": "To create smaller networks from a larger network"},
+            {"id": "b", "text": "To combine multiple networks into one"},
+            {"id": "c", "text": "To increase network speed"},
+            {"id": "d", "text": "To improve network security"}
+            ],
+            "answerId": "a",
+            "explanation": "Subnetting divides a large network into smaller, more manageable subnetworks to improve performance and security."
+        },
+        {
+            "id": "cn32",
+            "text": "Which protocol is used for network management and monitoring?",
+            "options": [
+            {"id": "a", "text": "HTTP"},
+            {"id": "b", "text": "SNMP"},
+            {"id": "c", "text": "FTP"},
+            {"id": "d", "text": "DNS"}
+            ],
+            "answerId": "b",
+            "explanation": "SNMP (Simple Network Management Protocol) is used for managing and monitoring network devices."
+        },
+        {
+            "id": "cn33",
+            "text": "What is the maximum data rate of 802.11g Wi-Fi?",
+            "options": [
+            {"id": "a", "text": "11 Mbps"},
+            {"id": "b", "text": "54 Mbps"},
+            {"id": "c", "text": "100 Mbps"},
+            {"id": "d", "text": "300 Mbps"}
+            ],
+            "answerId": "b",
+            "explanation": "802.11g Wi-Fi has a maximum data rate of 54 Mbps and operates in the 2.4 GHz band."
+        },
+        {
+            "id": "cn34",
+            "text": "Which layer of the OSI model is responsible for end-to-end connection?",
+            "options": [
+            {"id": "a", "text": "Network Layer"},
+            {"id": "b", "text": "Transport Layer"},
+            {"id": "c", "text": "Session Layer"},
+            {"id": "d", "text": "Application Layer"}
+            ],
+            "answerId": "b",
+            "explanation": "The Transport Layer provides end-to-end communication services for applications, including connection-oriented data stream support."
+        },
+        {
+            "id": "cn35",
+            "text": "What is a 'packet' in networking?",
+            "options": [
+            {"id": "a", "text": "A small unit of data transmitted over a network"},
+            {"id": "b", "text": "A large file being transferred"},
+            {"id": "c", "text": "A network security device"},
+            {"id": "d", "text": "A type of network cable"}
+            ],
+            "answerId": "a",
+            "explanation": "A packet is a small segment of a larger message that contains both data and addressing information for routing through a network."
+        },
+        {
+            "id": "cn36",
+            "text": "Which protocol is used for time synchronization across networks?",
+            "options": [
+            {"id": "a", "text": "HTTP"},
+            {"id": "b", "text": "FTP"},
+            {"id": "c", "text": "NTP"},
+            {"id": "d", "text": "DNS"}
+            ],
+            "answerId": "c",
+            "explanation": "NTP (Network Time Protocol) is used to synchronize the clocks of computer systems over packet-switched networks."
+        },
+        {
+            "id": "cn37",
+            "text": "What is the purpose of 'port forwarding'?",
+            "options": [
+            {"id": "a", "text": "To speed up internet connection"},
+            {"id": "b", "text": "To redirect communication requests from one port to another"},
+            {"id": "c", "text": "To block specific ports for security"},
+            {"id": "d", "text": "To convert between different port types"}
+            ],
+            "answerId": "b",
+            "explanation": "Port forwarding redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway."
+        },
+        {
+            "id": "cn38",
+            "text": "Which cable type is used for Ethernet networks?",
+            "options": [
+            {"id": "a", "text": "Coaxial cable"},
+            {"id": "b", "text": "Fiber optic cable"},
+            {"id": "c", "text": "Twisted pair cable"},
+            {"id": "d", "text": "All of the above"}
+            ],
+            "answerId": "d",
+            "explanation": "Ethernet networks can use various cable types including twisted pair (most common), fiber optic, and coaxial cables."
+        },
+        {
+            "id": "cn39",
+            "text": "What is a 'DNS server' used for?",
+            "options": [
+            {"id": "a", "text": "To store website content"},
+            {"id": "b", "text": "To translate domain names to IP addresses"},
+            {"id": "c", "text": "To assign IP addresses to devices"},
+            {"id": "d", "text": "To filter network traffic"}
+            ],
+            "answerId": "b",
+            "explanation": "DNS servers maintain a database of domain names and their corresponding IP addresses, translating human-friendly URLs to machine-readable addresses."
+        },
+        {
+            "id": "cn40",
+            "text": "Which protocol is connection-oriented and reliable?",
+            "options": [
+            {"id": "a", "text": "UDP"},
+            {"id": "b", "text": "TCP"},
+            {"id": "c", "text": "IP"},
+            {"id": "d", "text": "ICMP"}
+            ],
+            "answerId": "b",
+            "explanation": "TCP is connection-oriented and provides reliable, ordered, and error-checked delivery of a stream of bytes between applications."
+        }
+        ]
+    },
+  {
+    "id": "os-1",
+    "title": "Operating Systems",
+    "description": "Comprehensive quiz on operating system concepts, processes, memory management, and file systems.",
+    "timeLimitSec": 2400,
+    "questions": [
+      {
+        "id": "os1",
+        "text": "What is the main purpose of an operating system?",
+        "options": [
+          {"id": "a", "text": "To manage computer hardware and software resources"},
+          {"id": "b", "text": "To provide internet connectivity"},
+          {"id": "c", "text": "To run application programs only"},
+          {"id": "d", "text": "To store user data"}
+        ],
+        "answerId": "a",
+        "explanation": "The operating system acts as an intermediary between users and computer hardware, managing resources and providing common services."
+      },
+      {
+        "id": "os2",
+        "text": "What is a 'process' in operating systems?",
+        "options": [
+          {"id": "a", "text": "A program in execution"},
+          {"id": "b", "text": "A type of computer hardware"},
+          {"id": "c", "text": "A user interface element"},
+          {"id": "d", "text": "A storage device"}
+        ],
+        "answerId": "a",
+        "explanation": "A process is an instance of a computer program that is being executed by one or many threads."
+      },
+      {
+        "id": "os3",
+        "text": "Which scheduling algorithm provides the minimum average waiting time?",
+        "options": [
+          {"id": "a", "text": "First-Come, First-Served (FCFS)"},
+          {"id": "b", "text": "Shortest Job First (SJF)"},
+          {"id": "c", "text": "Round Robin"},
+          {"id": "d", "text": "Priority Scheduling"}
+        ],
+        "answerId": "b",
+        "explanation": "SJF scheduling provides the minimum average waiting time for a given set of processes."
+      },
+      {
+        "id": "os4",
+        "text": "What is virtual memory?",
+        "options": [
+          {"id": "a", "text": "Memory that doesn't physically exist"},
+          {"id": "b", "text": "A technique that uses disk space to extend RAM"},
+          {"id": "c", "text": "Memory used for virtual machines only"},
+          {"id": "d", "text": "A type of cache memory"}
+        ],
+        "answerId": "b",
+        "explanation": "Virtual memory is a memory management technique that uses secondary storage to supplement RAM, allowing processes to use more memory than physically available."
+      },
+      {
+        "id": "os5",
+        "text": "What is the purpose of a semaphore?",
+        "options": [
+          {"id": "a", "text": "To manage process synchronization"},
+          {"id": "b", "text": "To allocate memory"},
+          {"id": "c", "text": "To schedule processes"},
+          {"id": "d", "text": "To manage file systems"}
+        ],
+        "answerId": "a",
+        "explanation": "Semaphores are synchronization tools used to control access to shared resources in concurrent programming."
+      },
+      {
+        "id": "os6",
+        "text": "Which of the following is NOT a deadlock prevention technique?",
+        "options": [
+          {"id": "a", "text": "Mutual Exclusion"},
+          {"id": "b", "text": "Hold and Wait"},
+          {"id": "c", "text": "No Preemption"},
+          {"id": "d", "text": "Circular Wait"}
+        ],
+        "answerId": "a",
+        "explanation": "Mutual Exclusion is a necessary condition for deadlock, not a prevention technique. The other three are conditions that prevention techniques aim to avoid."
+      },
+      {
+        "id": "os7",
+        "text": "What is thrashing in operating systems?",
+        "options": [
+          {"id": "a", "text": "When a computer runs too fast"},
+          {"id": "b", "text": "Excessive swapping of pages between memory and disk"},
+          {"id": "c", "text": "When multiple processes run simultaneously"},
+          {"id": "d", "text": "A type of memory allocation error"}
+        ],
+        "answerId": "b",
+        "explanation": "Thrashing occurs when the system spends more time swapping pages in and out of memory than executing processes, severely degrading performance."
+      },
+      {
+        "id": "os8",
+        "text": "Which page replacement algorithm suffers from Belady's Anomaly?",
+        "options": [
+          {"id": "a", "text": "Optimal Page Replacement"},
+          {"id": "b", "text": "Least Recently Used (LRU)"},
+          {"id": "c", "text": "First-In-First-Out (FIFO)"},
+          {"id": "d", "text": "Most Recently Used (MRU)"}
+        ],
+        "answerId": "c",
+        "explanation": "FIFO page replacement algorithm can suffer from Belady's Anomaly where increasing the number of page frames can increase page faults."
+      },
+      {
+        "id": "os9",
+        "text": "What is the role of the kernel in an operating system?",
+        "options": [
+          {"id": "a", "text": "To provide the user interface"},
+          {"id": "b", "text": "To manage system resources and hardware interactions"},
+          {"id": "c", "text": "To run application programs"},
+          {"id": "d", "text": "To store user files"}
+        ],
+        "answerId": "b",
+        "explanation": "The kernel is the core component of the OS that manages system resources, hardware devices, and provides essential services to other parts of the OS."
+      },
+      {
+        "id": "os10",
+        "text": "What is a system call?",
+        "options": [
+          {"id": "a", "text": "A function call within an application"},
+          {"id": "b", "text": "A programming language feature"},
+          {"id": "c", "text": "A request by a process for a service from the kernel"},
+          {"id": "d", "text": "A type of hardware interrupt"}
+        ],
+        "answerId": "c",
+        "explanation": "System calls provide the interface between a running process and the operating system, allowing processes to request services from the kernel."
+      },
+      {
+        "id": "os11",
+        "text": "Which of the following is a real-time operating system?",
+        "options": [
+          {"id": "a", "text": "Windows 10"},
+          {"id": "b", "text": "Linux"},
+          {"id": "c", "text": "VxWorks"},
+          {"id": "d", "text": "macOS"}
+        ],
+        "answerId": "c",
+        "explanation": "VxWorks is a real-time operating system designed for embedded systems that require deterministic timing behavior."
+      },
+      {
+        "id": "os12",
+        "text": "What is the difference between a process and a thread?",
+        "options": [
+          {"id": "a", "text": "Processes share memory, threads don't"},
+          {"id": "b", "text": "Threads are lighter weight and share memory"},
+          {"id": "c", "text": "Processes are faster to create than threads"},
+          {"id": "d", "text": "Threads have their own address space"}
+        ],
+        "answerId": "b",
+        "explanation": "Threads are lighter weight than processes, share the same memory space, and are faster to create and context switch."
+      },
+      {
+        "id": "os13",
+        "text": "What is RAID used for?",
+        "options": [
+          {"id": "a", "text": "Process scheduling"},
+          {"id": "b", "text": "Memory management"},
+          {"id": "c", "text": "Disk storage redundancy and performance"},
+          {"id": "d", "text": "Network security"}
+        ],
+        "answerId": "c",
+        "explanation": "RAID (Redundant Array of Independent Disks) combines multiple physical disks into a single logical unit for data redundancy, performance, or both."
+      },
+      {
+        "id": "os14",
+        "text": "Which UNIX command is used to change file permissions?",
+        "options": [
+          {"id": "a", "text": "chmod"},
+          {"id": "b", "text": "chown"},
+          {"id": "c", "text": "chgrp"},
+          {"id": "d", "text": "perm"}
+        ],
+        "answerId": "a",
+        "explanation": "The chmod command is used to change the permissions of files and directories in UNIX/Linux systems."
+      },
+      {
+        "id": "os15",
+        "text": "What is a zombie process?",
+        "options": [
+          {"id": "a", "text": "A process that consumes excessive CPU"},
+          {"id": "b", "text": "A process that has terminated but whose parent hasn't waited for it"},
+          {"id": "c", "text": "A process that cannot be killed"},
+          {"id": "d", "text": "A process with memory leaks"}
+        ],
+        "answerId": "b",
+        "explanation": "A zombie process is a process that has completed execution but still has an entry in the process table, waiting for its parent to read its exit status."
+      },
+      {
+        "id": "os16",
+        "text": "What is the purpose of the 'fork()' system call?",
+        "options": [
+          {"id": "a", "text": "To create a new process"},
+          {"id": "b", "text": "To execute a new program"},
+          {"id": "c", "text": "To allocate memory"},
+          {"id": "d", "text": "To create a thread"}
+        ],
+        "answerId": "a",
+        "explanation": "The fork() system call creates a new process by duplicating the calling process. The new process is called the child process."
+      },
+      {
+        "id": "os17",
+        "text": "Which memory allocation algorithm allocates the smallest sufficient hole?",
+        "options": [
+          {"id": "a", "text": "First Fit"},
+          {"id": "b", "text": "Best Fit"},
+          {"id": "c", "text": "Worst Fit"},
+          {"id": "d", "text": "Next Fit"}
+        ],
+        "answerId": "b",
+        "explanation": "Best Fit algorithm searches for the smallest hole that is large enough to accommodate the process, minimizing wasted space."
+      },
+      {
+        "id": "os18",
+        "text": "What is context switching?",
+        "options": [
+          {"id": "a", "text": "Switching between different applications"},
+          {"id": "b", "text": "Saving the state of one process and loading another"},
+          {"id": "c", "text": "Changing user contexts"},
+          {"id": "d", "text": "Switching between kernel and user mode"}
+        ],
+        "answerId": "b",
+        "explanation": "Context switching is the process of storing the state of a process so that it can be restored and execution resumed later, allowing multiple processes to share a single CPU."
+      },
+      {
+        "id": "os19",
+        "text": "What is the difference between preemptive and non-preemptive scheduling?",
+        "options": [
+          {"id": "a", "text": "Preemptive allows process interruption, non-preemptive doesn't"},
+          {"id": "b", "text": "Non-preemptive is faster"},
+          {"id": "c", "text": "Preemptive is only for real-time systems"},
+          {"id": "d", "text": "Non-preemptive provides better response time"}
+        ],
+        "answerId": "a",
+        "explanation": "In preemptive scheduling, the OS can interrupt a running process, while in non-preemptive scheduling, a process runs until it voluntarily releases the CPU."
+      },
+      {
+        "id": "os20",
+        "text": "What is a mutex?",
+        "options": [
+          {"id": "a", "text": "A mutual exclusion object for thread synchronization"},
+          {"id": "b", "text": "A type of memory allocation"},
+          {"id": "c", "text": "A process scheduling algorithm"},
+          {"id": "d", "text": "A file system type"}
+        ],
+        "answerId": "a",
+        "explanation": "A mutex (mutual exclusion) is a synchronization primitive that prevents multiple threads from accessing shared resources simultaneously."
+      },
+      {
+        "id": "os21",
+        "text": "Which component manages the file system in an OS?",
+        "options": [
+          {"id": "a", "text": "Memory Manager"},
+          {"id": "b", "text": "Process Manager"},
+          {"id": "c", "text": "I/O Manager"},
+          {"id": "d", "text": "File Manager"}
+        ],
+        "answerId": "d",
+        "explanation": "The File Manager handles file creation, deletion, organization, and access in the operating system."
+      },
+      {
+        "id": "os22",
+        "text": "What is the purpose of the TLB (Translation Lookaside Buffer)?",
+        "options": [
+          {"id": "a", "text": "To cache frequently used page table entries"},
+          {"id": "b", "text": "To store temporary files"},
+          {"id": "c", "text": "To manage thread execution"},
+          {"id": "d", "text": "To buffer I/O operations"}
+        ],
+        "answerId": "a",
+        "explanation": "TLB is a memory cache that stores recent translations of virtual memory to physical addresses, speeding up virtual memory access."
+      },
+      {
+        "id": "os23",
+        "text": "What is a critical section?",
+        "options": [
+          {"id": "a", "text": "A part of code that accesses shared resources"},
+          {"id": "b", "text": "A system file that cannot be modified"},
+          {"id": "c", "text": "A memory area for kernel operations"},
+          {"id": "d", "text": "A security vulnerability"}
+        ],
+        "answerId": "a",
+        "explanation": "A critical section is a code segment that accesses shared variables and must not be concurrently executed by more than one process/thread."
+      },
+      {
+        "id": "os24",
+        "text": "Which scheduling algorithm uses time slices?",
+        "options": [
+          {"id": "a", "text": "FCFS"},
+          {"id": "b", "text": "SJF"},
+          {"id": "c", "text": "Round Robin"},
+          {"id": "d", "text": "Priority Scheduling"}
+        ],
+        "answerId": "c",
+        "explanation": "Round Robin scheduling assigns a fixed time unit (time slice/quantum) to each process in cyclic order."
+      },
+      {
+        "id": "os25",
+        "text": "What is paging in memory management?",
+        "options": [
+          {"id": "a", "text": "Dividing memory into fixed-size blocks"},
+          {"id": "b", "text": "Dividing memory into variable-size blocks"},
+          {"id": "c", "text": "A type of file organization"},
+          {"id": "d", "text": "A process scheduling technique"}
+        ],
+        "answerId": "a",
+        "explanation": "Paging is a memory management scheme that eliminates the need for contiguous allocation of physical memory by dividing it into fixed-sized blocks called pages."
+      },
+      {
+        "id": "os26",
+        "text": "What is the role of the shell in an operating system?",
+        "options": [
+          {"id": "a", "text": "To manage hardware resources"},
+          {"id": "b", "text": "To provide the user interface to the kernel"},
+          {"id": "c", "text": "To allocate memory"},
+          {"id": "d", "text": "To schedule processes"}
+        ],
+        "answerId": "b",
+        "explanation": "The shell is a command-line interpreter that provides an interface for users to interact with the operating system kernel."
+      },
+      {
+        "id": "os27",
+        "text": "What is inter-process communication (IPC)?",
+        "options": [
+          {"id": "a", "text": "Communication between threads of the same process"},
+          {"id": "b", "text": "Communication between different processes"},
+          {"id": "c", "text": "Communication between user and kernel"},
+          {"id": "d", "text": "Communication between different computers"}
+        ],
+        "answerId": "b",
+        "explanation": "IPC refers to mechanisms that allow processes to communicate with each other and synchronize their actions."
+      },
+      {
+        "id": "os28",
+        "text": "What is the difference between internal and external fragmentation?",
+        "options": [
+          {"id": "a", "text": "Internal occurs in paging, external in segmentation"},
+          {"id": "b", "text": "External occurs in paging, internal in segmentation"},
+          {"id": "c", "text": "Both occur only in paging"},
+          {"id": "d", "text": "Both occur only in segmentation"}
+        ],
+        "answerId": "a",
+        "explanation": "Internal fragmentation occurs in paging when a page is not completely filled. External fragmentation occurs in segmentation when free memory is broken into small pieces."
+      },
+      {
+        "id": "os29",
+        "text": "What is a device driver?",
+        "options": [
+          {"id": "a", "text": "A hardware component"},
+          {"id": "b", "text": "Software that controls a hardware device"},
+          {"id": "c", "text": "A type of file system"},
+          {"id": "d", "text": "A process scheduling algorithm"}
+        ],
+        "answerId": "b",
+        "explanation": "A device driver is a computer program that operates or controls a particular type of device attached to a computer."
+      },
+      {
+        "id": "os30",
+        "text": "What is the purpose of the 'exec()' system call?",
+        "options": [
+          {"id": "a", "text": "To create a new process"},
+          {"id": "b", "text": "To execute a new program in the current process"},
+          {"id": "c", "text": "To allocate memory"},
+          {"id": "d", "text": "To create a thread"}
+        ],
+        "answerId": "b",
+        "explanation": "The exec() system call replaces the current process image with a new process image, running a different program."
+      },
+      {
+        "id": "os31",
+        "text": "What is a real-time operating system?",
+        "options": [
+          {"id": "a", "text": "An OS that responds quickly to user input"},
+          {"id": "b", "text": "An OS that guarantees response within strict time constraints"},
+          {"id": "c", "text": "An OS that runs on modern hardware"},
+          {"id": "d", "text": "An OS with graphical interface"}
+        ],
+        "answerId": "b",
+        "explanation": "A real-time operating system (RTOS) is designed to process data and events that have critically defined time constraints."
+      },
+      {
+        "id": "os32",
+        "text": "What is the purpose of swapping?",
+        "options": [
+          {"id": "a", "text": "To exchange data between processes"},
+          {"id": "b", "text": "To move processes between main memory and disk"},
+          {"id": "c", "text": "To switch between user and kernel mode"},
+          {"id": "d", "text": "To change process priorities"}
+        ],
+        "answerId": "b",
+        "explanation": "Swapping is a memory management technique that moves processes between main memory and secondary storage to allow multiple processes to run."
+      },
+      {
+        "id": "os33",
+        "text": "What is a distributed operating system?",
+        "options": [
+          {"id": "a", "text": "An OS that runs on multiple CPUs"},
+          {"id": "b", "text": "An OS that manages a group of independent computers"},
+          {"id": "c", "text": "An OS with distributed file system"},
+          {"id": "d", "text": "An OS that supports networking"}
+        ],
+        "answerId": "b",
+        "explanation": "A distributed operating system manages a group of distinct computers and makes them appear to be a single computer."
+      },
+      {
+        "id": "os34",
+        "text": "What is the difference between microkernel and monolithic kernel?",
+        "options": [
+          {"id": "a", "text": "Microkernel is larger than monolithic kernel"},
+          {"id": "b", "text": "Microkernel has minimal services in kernel space"},
+          {"id": "c", "text": "Monolithic kernel is more modular"},
+          {"id": "d", "text": "Microkernel runs all services in kernel mode"}
+        ],
+        "answerId": "b",
+        "explanation": "Microkernel keeps the kernel minimal with most services running in user space, while monolithic kernel includes all services in kernel space."
+      },
+      {
+        "id": "os35",
+        "text": "What is a race condition?",
+        "options": [
+          {"id": "a", "text": "A condition where process execution order affects output"},
+          {"id": "b", "text": "A type of memory leak"},
+          {"id": "c", "text": "A scheduling algorithm"},
+          {"id": "d", "text": "A file system error"}
+        ],
+        "answerId": "a",
+        "explanation": "A race condition occurs when the output depends on the sequence or timing of uncontrollable events, typically in concurrent programming."
+      },
+      {
+        "id": "os36",
+        "text": "What is the purpose of the 'wait()' system call?",
+        "options": [
+          {"id": "a", "text": "To pause a process for a specified time"},
+          {"id": "b", "text": "To wait for a child process to terminate"},
+          {"id": "c", "text": "To wait for I/O completion"},
+          {"id": "d", "text": "To wait for a mutex to be released"}
+        ],
+        "answerId": "b",
+        "explanation": "The wait() system call allows a parent process to wait for the termination of a child process and obtain its exit status."
+      },
+      {
+        "id": "os37",
+        "text": "What is memory-mapped I/O?",
+        "options": [
+          {"id": "a", "text": "Mapping files directly into process address space"},
+          {"id": "b", "text": "A type of memory allocation"},
+          {"id": "c", "text": "Mapping I/O devices to memory addresses"},
+          {"id": "d", "text": "A file system organization"}
+        ],
+        "answerId": "c",
+        "explanation": "Memory-mapped I/O uses the same address space for both memory and I/O devices, allowing CPU instructions to access I/O devices."
+      },
+      {
+        "id": "os38",
+        "text": "What is the purpose of the bootloader?",
+        "options": [
+          {"id": "a", "text": "To load the operating system kernel"},
+          {"id": "b", "text": "To boot applications"},
+          {"id": "c", "text": "To manage memory"},
+          {"id": "d", "text": "To schedule processes"}
+        ],
+        "answerId": "a",
+        "explanation": "A bootloader is a program that loads the main operating system or runtime environment for the computer after completion of power-on self-tests."
+      },
+      {
+        "id": "os39",
+        "text": "What is a system daemon?",
+        "options": [
+          {"id": "a", "text": "A background process that provides services"},
+          {"id": "b", "text": "A type of virus"},
+          {"id": "c", "text": "A user interface component"},
+          {"id": "d", "text": "A hardware device"}
+        ],
+        "answerId": "a",
+        "explanation": "A daemon is a background process that handles requests for services such as print spooling, network connections, or task scheduling."
+      },
+      {
+        "id": "os40",
+        "text": "What is the difference between logical and physical addresses?",
+        "options": [
+          {"id": "a", "text": "Logical addresses are generated by CPU, physical by MMU"},
+          {"id": "b", "text": "Physical addresses are virtual, logical are real"},
+          {"id": "c", "text": "They are the same thing"},
+          {"id": "d", "text": "Logical addresses are used by hardware"}
+        ],
+        "answerId": "a",
+        "explanation": "Logical (virtual) addresses are generated by the CPU, while physical addresses refer to actual memory locations. The MMU translates logical to physical addresses."
+      }
+    ]
+  },
+  {
+    "id": "aws-1",
+    "title": "Amazon Web Services (AWS)",
+    "description": "Comprehensive quiz on AWS cloud services, architecture, and best practices.",
+    "timeLimitSec": 2400,
+    "questions": [
+      {
+        "id": "aws1",
+        "text": "What does AWS stand for?",
+        "options": [
+          {"id": "a", "text": "Amazon Web Services"},
+          {"id": "b", "text": "Amazon Window System"},
+          {"id": "c", "text": "Advanced Web Solutions"},
+          {"id": "d", "text": "Amazon Workload Services"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS stands for Amazon Web Services, Amazon's comprehensive cloud computing platform."
+      },
+      {
+        "id": "aws2",
+        "text": "Which AWS service provides object storage?",
+        "options": [
+          {"id": "a", "text": "Amazon EBS"},
+          {"id": "b", "text": "Amazon S3"},
+          {"id": "c", "text": "Amazon EFS"},
+          {"id": "d", "text": "Amazon Glacier"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon S3 (Simple Storage Service) provides scalable object storage for data backup, archival, and analytics."
+      },
+      {
+        "id": "aws3",
+        "text": "What is the default storage class in Amazon S3?",
+        "options": [
+          {"id": "a", "text": "S3 Standard"},
+          {"id": "b", "text": "S3 Intelligent-Tiering"},
+          {"id": "c", "text": "S3 Standard-IA"},
+          {"id": "d", "text": "S3 One Zone-IA"}
+        ],
+        "answerId": "a",
+        "explanation": "S3 Standard is the default storage class for high durability and availability of frequently accessed data."
+      },
+      {
+        "id": "aws4",
+        "text": "Which AWS service allows you to run virtual servers in the cloud?",
+        "options": [
+          {"id": "a", "text": "AWS Lambda"},
+          {"id": "b", "text": "Amazon EC2"},
+          {"id": "c", "text": "AWS Elastic Beanstalk"},
+          {"id": "d", "text": "Amazon Lightsail"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon EC2 (Elastic Compute Cloud) provides scalable virtual servers in the cloud."
+      },
+      {
+        "id": "aws5",
+        "text": "What is AWS Lambda primarily used for?",
+        "options": [
+          {"id": "a", "text": "Running virtual servers"},
+          {"id": "b", "text": "Serverless computing"},
+          {"id": "c", "text": "Database management"},
+          {"id": "d", "text": "Network routing"}
+        ],
+        "answerId": "b",
+        "explanation": "AWS Lambda is a serverless compute service that runs code in response to events without provisioning or managing servers."
+      },
+      {
+        "id": "aws6",
+        "text": "Which database service is Amazon's fully managed relational database?",
+        "options": [
+          {"id": "a", "text": "Amazon DynamoDB"},
+          {"id": "b", "text": "Amazon RDS"},
+          {"id": "c", "text": "Amazon Redshift"},
+          {"id": "d", "text": "Amazon DocumentDB"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon RDS (Relational Database Service) is a managed service that makes it easy to set up, operate, and scale relational databases."
+      },
+      {
+        "id": "aws7",
+        "text": "What is the purpose of Amazon VPC?",
+        "options": [
+          {"id": "a", "text": "Virtual private cloud for isolated network resources"},
+          {"id": "b", "text": "Virtual private connection to on-premises"},
+          {"id": "c", "text": "Virtual private database cluster"},
+          {"id": "d", "text": "Virtual private storage"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon VPC (Virtual Private Cloud) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources."
+      },
+      {
+        "id": "aws8",
+        "text": "Which AWS service is used for content delivery?",
+        "options": [
+          {"id": "a", "text": "AWS CloudFront"},
+          {"id": "b", "text": "AWS Route 53"},
+          {"id": "c", "text": "AWS API Gateway"},
+          {"id": "d", "text": "AWS Direct Connect"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally."
+      },
+      {
+        "id": "aws9",
+        "text": "What is AWS IAM used for?",
+        "options": [
+          {"id": "a", "text": "Infrastructure management"},
+          {"id": "b", "text": "Identity and access management"},
+          {"id": "c", "text": "Instance automation management"},
+          {"id": "d", "text": "Internet application management"}
+        ],
+        "answerId": "b",
+        "explanation": "AWS IAM (Identity and Access Management) enables you to manage access to AWS services and resources securely."
+      },
+      {
+        "id": "aws10",
+        "text": "Which service provides auto-scaling for EC2 instances?",
+        "options": [
+          {"id": "a", "text": "AWS Auto Scaling"},
+          {"id": "b", "text": "AWS Elastic Load Balancing"},
+          {"id": "c", "text": "AWS CloudWatch"},
+          {"id": "d", "text": "AWS OpsWorks"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Auto Scaling helps you maintain application availability and allows you to scale your Amazon EC2 capacity up or down automatically."
+      },
+      {
+        "id": "aws11",
+        "text": "What is Amazon SNS primarily used for?",
+        "options": [
+          {"id": "a", "text": "Simple notification service"},
+          {"id": "b", "text": "Simple network storage"},
+          {"id": "c", "text": "Secure naming service"},
+          {"id": "d", "text": "System notification system"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon SNS (Simple Notification Service) is a fully managed messaging service for both application-to-application and application-to-person communication."
+      },
+      {
+        "id": "aws12",
+        "text": "Which AWS service is a NoSQL database?",
+        "options": [
+          {"id": "a", "text": "Amazon RDS"},
+          {"id": "b", "text": "Amazon DynamoDB"},
+          {"id": "c", "text": "Amazon Aurora"},
+          {"id": "d", "text": "Amazon Redshift"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability."
+      },
+      {
+        "id": "aws13",
+        "text": "What is the purpose of AWS CloudFormation?",
+        "options": [
+          {"id": "a", "text": "Infrastructure as code"},
+          {"id": "b", "text": "Cloud monitoring"},
+          {"id": "c", "text": "Content delivery"},
+          {"id": "d", "text": "Database management"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS CloudFormation gives you an easy way to model a collection of related AWS and third-party resources and provision them quickly and consistently."
+      },
+      {
+        "id": "aws14",
+        "text": "Which service provides DNS management in AWS?",
+        "options": [
+          {"id": "a", "text": "AWS CloudFront"},
+          {"id": "b", "text": "AWS Route 53"},
+          {"id": "c", "text": "AWS API Gateway"},
+          {"id": "d", "text": "AWS Direct Connect"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service."
+      },
+      {
+        "id": "aws15",
+        "text": "What is AWS CloudWatch used for?",
+        "options": [
+          {"id": "a", "text": "Monitoring and observability"},
+          {"id": "b", "text": "Content delivery"},
+          {"id": "c", "text": "Database management"},
+          {"id": "d", "text": "Network security"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon CloudWatch provides monitoring and observability for your AWS resources and applications."
+      },
+      {
+        "id": "aws16",
+        "text": "Which AWS service provides message queuing?",
+        "options": [
+          {"id": "a", "text": "Amazon SNS"},
+          {"id": "b", "text": "Amazon SQS"},
+          {"id": "c", "text": "Amazon MQ"},
+          {"id": "d", "text": "Amazon Kinesis"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon SQS (Simple Queue Service) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications."
+      },
+      {
+        "id": "aws17",
+        "text": "What is the AWS shared responsibility model?",
+        "options": [
+          {"id": "a", "text": "AWS manages security of the cloud, customer manages security in the cloud"},
+          {"id": "b", "text": "AWS manages all security aspects"},
+          {"id": "c", "text": "Customer manages all security aspects"},
+          {"id": "d", "text": "Security is shared equally between AWS and customer"}
+        ],
+        "answerId": "a",
+        "explanation": "In the shared responsibility model, AWS is responsible for security of the cloud, while customers are responsible for security in the cloud."
+      },
+      {
+        "id": "aws18",
+        "text": "Which service provides a fully managed Kubernetes service?",
+        "options": [
+          {"id": "a", "text": "Amazon ECS"},
+          {"id": "b", "text": "Amazon EKS"},
+          {"id": "c", "text": "AWS Fargate"},
+          {"id": "d", "text": "AWS Lambda"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon EKS (Elastic Kubernetes Service) is a managed service that makes it easy to run Kubernetes on AWS without needing to install and operate your own Kubernetes control plane."
+      },
+      {
+        "id": "aws19",
+        "text": "What is AWS Snowball used for?",
+        "options": [
+          {"id": "a", "text": "Data transfer using physical storage devices"},
+          {"id": "b", "text": "Snow monitoring"},
+          {"id": "c", "text": "Cold storage"},
+          {"id": "d", "text": "Content delivery"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Snowball is a petabyte-scale data transport solution that uses secure appliances to transfer large amounts of data into and out of AWS."
+      },
+      {
+        "id": "aws20",
+        "text": "Which AWS service provides a data warehouse solution?",
+        "options": [
+          {"id": "a", "text": "Amazon RDS"},
+          {"id": "b", "text": "Amazon Redshift"},
+          {"id": "c", "text": "Amazon DynamoDB"},
+          {"id": "d", "text": "Amazon Aurora"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon Redshift is a fully managed, petabyte-scale data warehouse service in the cloud."
+      },
+      {
+        "id": "aws21",
+        "text": "What is the purpose of AWS WAF?",
+        "options": [
+          {"id": "a", "text": "Web application firewall"},
+          {"id": "b", "text": "Workload automation framework"},
+          {"id": "c", "text": "Wireless access facility"},
+          {"id": "d", "text": "Web acceleration feature"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS WAF (Web Application Firewall) helps protect web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources."
+      },
+      {
+        "id": "aws22",
+        "text": "Which service provides managed container orchestration?",
+        "options": [
+          {"id": "a", "text": "Amazon ECS"},
+          {"id": "b", "text": "AWS Lambda"},
+          {"id": "c", "text": "Amazon EC2"},
+          {"id": "d", "text": "AWS Batch"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon ECS (Elastic Container Service) is a highly scalable, high-performance container orchestration service that supports Docker containers."
+      },
+      {
+        "id": "aws23",
+        "text": "What is AWS Organizations used for?",
+        "options": [
+          {"id": "a", "text": "Managing multiple AWS accounts"},
+          {"id": "b", "text": "Organizing S3 buckets"},
+          {"id": "c", "text": "Managing employee organizations"},
+          {"id": "d", "text": "Organizing EC2 instances"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Organizations helps you centrally manage and govern your environment as you grow and scale your AWS resources."
+      },
+      {
+        "id": "aws24",
+        "text": "Which service provides a fully managed Apache Kafka service?",
+        "options": [
+          {"id": "a", "text": "Amazon Kinesis"},
+          {"id": "b", "text": "Amazon MSK"},
+          {"id": "c", "text": "Amazon SQS"},
+          {"id": "d", "text": "Amazon SNS"}
+        ],
+        "answerId": "b",
+        "explanation": "Amazon MSK (Managed Streaming for Apache Kafka) is a fully managed service that makes it easy to build and run applications that use Apache Kafka to process streaming data."
+      },
+      {
+        "id": "aws25",
+        "text": "What is AWS Shield?",
+        "options": [
+          {"id": "a", "text": "DDoS protection service"},
+          {"id": "b", "text": "Security monitoring service"},
+          {"id": "c", "text": "Firewall service"},
+          {"id": "d", "text": "Encryption service"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Shield is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS."
+      },
+      {
+        "id": "aws26",
+        "text": "Which AWS service provides a fully managed message broker?",
+        "options": [
+          {"id": "a", "text": "Amazon SQS"},
+          {"id": "b", "text": "Amazon SNS"},
+          {"id": "c", "text": "Amazon MQ"},
+          {"id": "d", "text": "Amazon Kinesis"}
+        ],
+        "answerId": "c",
+        "explanation": "Amazon MQ is a managed message broker service for Apache ActiveMQ and RabbitMQ that makes it easy to set up and operate message brokers in the cloud."
+      },
+      {
+        "id": "aws27",
+        "text": "What is AWS Config used for?",
+        "options": [
+          {"id": "a", "text": "Resource inventory and configuration history"},
+          {"id": "b", "text": "Application configuration management"},
+          {"id": "c", "text": "Network configuration"},
+          {"id": "d", "text": "User configuration management"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Config provides a detailed view of the configuration of AWS resources in your AWS account and how they have changed over time."
+      },
+      {
+        "id": "aws28",
+        "text": "Which service provides a fully managed Redis-compatible in-memory data store?",
+        "options": [
+          {"id": "a", "text": "Amazon ElastiCache for Redis"},
+          {"id": "b", "text": "Amazon MemoryDB"},
+          {"id": "c", "text": "Amazon DynamoDB Accelerator"},
+          {"id": "d", "text": "Amazon Redshift"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon ElastiCache for Redis is a fully managed, Redis-compatible in-memory data store that provides sub-millisecond latency to power internet-scale real-time applications."
+      },
+      {
+        "id": "aws29",
+        "text": "What is AWS Direct Connect used for?",
+        "options": [
+          {"id": "a", "text": "Dedicated network connection to AWS"},
+          {"id": "b", "text": "Direct database connection"},
+          {"id": "c", "text": "Direct storage access"},
+          {"id": "d", "text": "Direct compute access"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Direct Connect makes it easy to establish a dedicated network connection from your premises to AWS."
+      },
+      {
+        "id": "aws30",
+        "text": "Which AWS service provides a fully managed graph database?",
+        "options": [
+          {"id": "a", "text": "Amazon Neptune"},
+          {"id": "b", "text": "Amazon DynamoDB"},
+          {"id": "c", "text": "Amazon DocumentDB"},
+          {"id": "d", "text": "Amazon QLDB"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets."
+      },
+      {
+        "id": "aws31",
+        "text": "What is AWS Step Functions used for?",
+        "options": [
+          {"id": "a", "text": "Coordinating multiple AWS services into serverless workflows"},
+          {"id": "b", "text": "Managing EC2 instances"},
+          {"id": "c", "text": "Database step-by-step operations"},
+          {"id": "d", "text": "Network step configuration"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Step Functions is a serverless function orchestrator that makes it easy to sequence AWS Lambda functions and multiple AWS services into business-critical applications."
+      },
+      {
+        "id": "aws32",
+        "text": "Which service provides a fully managed blockchain?",
+        "options": [
+          {"id": "a", "text": "Amazon Managed Blockchain"},
+          {"id": "b", "text": "Amazon QLDB"},
+          {"id": "c", "text": "Amazon Blockchain Service"},
+          {"id": "d", "text": "Amazon ChainDB"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon Managed Blockchain is a fully managed service that makes it easy to create and manage scalable blockchain networks using popular open source frameworks."
+      },
+      {
+        "id": "aws33",
+        "text": "What is AWS X-Ray used for?",
+        "options": [
+          {"id": "a", "text": "Analyzing and debugging distributed applications"},
+          {"id": "b", "text": "X-ray scanning of EC2 instances"},
+          {"id": "c", "text": "Security vulnerability scanning"},
+          {"id": "d", "text": "Network packet analysis"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture."
+      },
+      {
+        "id": "aws34",
+        "text": "Which AWS service provides a fully managed Apache Spark service?",
+        "options": [
+          {"id": "a", "text": "Amazon EMR"},
+          {"id": "b", "text": "Amazon Athena"},
+          {"id": "c", "text": "Amazon Redshift"},
+          {"id": "d", "text": "Amazon QuickSight"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon EMR (Elastic MapReduce) is a managed cluster platform that simplifies running big data frameworks, such as Apache Hadoop and Apache Spark, on AWS."
+      },
+      {
+        "id": "aws35",
+        "text": "What is AWS Backup used for?",
+        "options": [
+          {"id": "a", "text": "Centralized backup management across AWS services"},
+          {"id": "b", "text": "Backup of on-premises data"},
+          {"id": "c", "text": "Database backup only"},
+          {"id": "d", "text": "File system backup"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Backup is a fully managed backup service that makes it easy to centralize and automate the backup of data across AWS services."
+      },
+      {
+        "id": "aws36",
+        "text": "Which service provides a fully managed time-series database?",
+        "options": [
+          {"id": "a", "text": "Amazon Timestream"},
+          {"id": "b", "text": "Amazon TimeDB"},
+          {"id": "c", "text": "Amazon SeriesDB"},
+          {"id": "d", "text": "Amazon SequenceDB"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon Timestream is a fast, scalable, fully managed time-series database service for IoT and operational applications."
+      },
+      {
+        "id": "aws37",
+        "text": "What is AWS Control Tower used for?",
+        "options": [
+          {"id": "a", "text": "Setting up and governing a secure multi-account AWS environment"},
+          {"id": "b", "text": "Controlling EC2 instances"},
+          {"id": "c", "text": "Managing network controls"},
+          {"id": "d", "text": "Controlling access to S3 buckets"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Control Tower provides the easiest way to set up and govern a secure, compliant multi-account AWS environment."
+      },
+      {
+        "id": "aws38",
+        "text": "Which service provides a fully managed service for running stateful containers?",
+        "options": [
+          {"id": "a", "text": "Amazon ECS"},
+          {"id": "b", "text": "Amazon EKS"},
+          {"id": "c", "text": "AWS Fargate"},
+          {"id": "d", "text": "Amazon EBS"}
+        ],
+        "answerId": "c",
+        "explanation": "AWS Fargate is a serverless compute engine for containers that works with both Amazon ECS and Amazon EKS, making it easy to run stateful containers."
+      },
+      {
+        "id": "aws39",
+        "text": "What is AWS Outposts?",
+        "options": [
+          {"id": "a", "text": "AWS infrastructure for on-premises deployment"},
+          {"id": "b", "text": "Outpost monitoring service"},
+          {"id": "c", "text": "Remote office connectivity"},
+          {"id": "d", "text": "Edge computing service"}
+        ],
+        "answerId": "a",
+        "explanation": "AWS Outposts brings native AWS services, infrastructure, and operating models to virtually any data center, co-location space, or on-premises facility."
+      },
+      {
+        "id": "aws40",
+        "text": "Which AWS service provides a fully managed service for machine learning?",
+        "options": [
+          {"id": "a", "text": "Amazon SageMaker"},
+          {"id": "b", "text": "Amazon ML"},
+          {"id": "c", "text": "AWS Deep Learning AMIs"},
+          {"id": "d", "text": "Amazon Comprehend"}
+        ],
+        "answerId": "a",
+        "explanation": "Amazon SageMaker is a fully managed machine learning service that enables developers and data scientists to build, train, and deploy ML models quickly."
+      }
+    ]
+  },
+  {
+    "id": "fullstack-1",
+    "title": "Full Stack Development",
+    "description": "Comprehensive quiz on full stack web development including frontend, backend, databases, and DevOps.",
+    "timeLimitSec": 2400,
+    "questions": [
+      {
+        "id": "fs1",
+        "text": "What does HTML stand for?",
+        "options": [
+          {"id": "a", "text": "Hyper Text Markup Language"},
+          {"id": "b", "text": "High Tech Modern Language"},
+          {"id": "c", "text": "Hyper Transfer Markup Language"},
+          {"id": "d", "text": "Home Tool Markup Language"}
+        ],
+        "answerId": "a",
+        "explanation": "HTML stands for Hyper Text Markup Language, which is the standard markup language for documents designed to be displayed in a web browser."
+      },
+      {
+        "id": "fs2",
+        "text": "Which of the following is a CSS preprocessor?",
+        "options": [
+          {"id": "a", "text": "SASS"},
+          {"id": "b", "text": "JavaScript"},
+          {"id": "c", "text": "TypeScript"},
+          {"id": "d", "text": "Bootstrap"}
+        ],
+        "answerId": "a",
+        "explanation": "SASS (Syntactically Awesome Style Sheets) is a CSS preprocessor that adds features like variables, nesting, and mixins to CSS."
+      },
+      {
+        "id": "fs3",
+        "text": "What is the purpose of JavaScript in web development?",
+        "options": [
+          {"id": "a", "text": "To add interactivity to web pages"},
+          {"id": "b", "text": "To style web pages"},
+          {"id": "c", "text": "To structure web content"},
+          {"id": "d", "text": "To store data"}
+        ],
+        "answerId": "a",
+        "explanation": "JavaScript is a programming language that enables interactive web pages and is an essential part of web applications."
+      },
+      {
+        "id": "fs4",
+        "text": "Which HTTP method is used to retrieve data from a server?",
+        "options": [
+          {"id": "a", "text": "GET"},
+          {"id": "b", "text": "POST"},
+          {"id": "c", "text": "PUT"},
+          {"id": "d", "text": "DELETE"}
+        ],
+        "answerId": "a",
+        "explanation": "The GET method requests a representation of the specified resource and should only retrieve data."
+      },
+      {
+        "id": "fs5",
+        "text": "What is React.js primarily used for?",
+        "options": [
+          {"id": "a", "text": "Building user interfaces"},
+          {"id": "b", "text": "Database management"},
+          {"id": "c", "text": "Server-side programming"},
+          {"id": "d", "text": "Mobile app development only"}
+        ],
+        "answerId": "a",
+        "explanation": "React is a JavaScript library for building user interfaces, particularly for single-page applications."
+      },
+      {
+        "id": "fs6",
+        "text": "Which database is known as a NoSQL database?",
+        "options": [
+          {"id": "a", "text": "MongoDB"},
+          {"id": "b", "text": "MySQL"},
+          {"id": "c", "text": "PostgreSQL"},
+          {"id": "d", "text": "SQLite"}
+        ],
+        "answerId": "a",
+        "explanation": "MongoDB is a popular NoSQL database that uses a document-oriented data model."
+      },
+      {
+        "id": "fs7",
+        "text": "What is Node.js?",
+        "options": [
+          {"id": "a", "text": "A JavaScript runtime built on Chrome's V8 engine"},
+          {"id": "b", "text": "A frontend framework"},
+          {"id": "c", "text": "A database management system"},
+          {"id": "d", "text": "A CSS framework"}
+        ],
+        "answerId": "a",
+        "explanation": "Node.js is a JavaScript runtime that allows developers to run JavaScript on the server side."
+      },
+      {
+        "id": "fs8",
+        "text": "What is the purpose of REST API?",
+        "options": [
+          {"id": "a", "text": "To enable communication between client and server"},
+          {"id": "b", "text": "To style web pages"},
+          {"id": "c", "text": "To manage databases"},
+          {"id": "d", "text": "To compile code"}
+        ],
+        "answerId": "a",
+        "explanation": "REST (Representational State Transfer) API is an architectural style for designing networked applications that use HTTP requests to access and use data."
+      },
+      {
+        "id": "fs9",
+        "text": "Which tool is used for version control?",
+        "options": [
+          {"id": "a", "text": "Git"},
+          {"id": "b", "text": "NPM"},
+          {"id": "c", "text": "Webpack"},
+          {"id": "d", "text": "Docker"}
+        ],
+        "answerId": "a",
+        "explanation": "Git is a distributed version control system that tracks changes in source code during software development."
+      },
+      {
+        "id": "fs10",
+        "text": "What is Docker used for?",
+        "options": [
+          {"id": "a", "text": "Containerization of applications"},
+          {"id": "b", "text": "Version control"},
+          {"id": "c", "text": "Package management"},
+          {"id": "d", "text": "Code compilation"}
+        ],
+        "answerId": "a",
+        "explanation": "Docker is a platform that uses containerization to make it easier to create, deploy, and run applications."
+      },
+      {
+        "id": "fs11",
+        "text": "Which of the following is a frontend framework?",
+        "options": [
+          {"id": "a", "text": "Angular"},
+          {"id": "b", "text": "Express.js"},
+          {"id": "c", "text": "Django"},
+          {"id": "d", "text": "Spring Boot"}
+        ],
+        "answerId": "a",
+        "explanation": "Angular is a TypeScript-based frontend framework for building web applications."
+      },
+      {
+        "id": "fs12",
+        "text": "What is the purpose of package.json in Node.js projects?",
+        "options": [
+          {"id": "a", "text": "To manage project dependencies and scripts"},
+          {"id": "b", "text": "To store database configurations"},
+          {"id": "c", "text": "To define HTML templates"},
+          {"id": "d", "text": "To store user data"}
+        ],
+        "answerId": "a",
+        "explanation": "package.json is a file that holds various metadata relevant to the project and is used to manage the project's dependencies, scripts, and version."
+      },
+      {
+        "id": "fs13",
+        "text": "Which protocol is used for secure data transmission over the web?",
+        "options": [
+          {"id": "a", "text": "HTTPS"},
+          {"id": "b", "text": "HTTP"},
+          {"id": "c", "text": "FTP"},
+          {"id": "d", "text": "SMTP"}
+        ],
+        "answerId": "a",
+        "explanation": "HTTPS (Hyper Text Transfer Protocol Secure) is the secure version of HTTP that uses SSL/TLS encryption."
+      },
+      {
+        "id": "fs14",
+        "text": "What is the virtual DOM in React?",
+        "options": [
+          {"id": "a", "text": "A lightweight copy of the real DOM"},
+          {"id": "b", "text": "A virtual reality interface"},
+          {"id": "c", "text": "A database for React components"},
+          {"id": "d", "text": "A testing environment"}
+        ],
+        "answerId": "a",
+        "explanation": "The virtual DOM is a programming concept where a virtual representation of the UI is kept in memory and synced with the real DOM by a library such as ReactDOM."
+      },
+      {
+        "id": "fs15",
+        "text": "Which database query language is used by relational databases?",
+        "options": [
+          {"id": "a", "text": "SQL"},
+          {"id": "b", "text": "NoSQL"},
+          {"id": "c", "text": "GraphQL"},
+          {"id": "d", "text": "MongoQL"}
+        ],
+        "answerId": "a",
+        "explanation": "SQL (Structured Query Language) is the standard language for relational database management systems."
+      },
+      {
+        "id": "fs16",
+        "text": "What is the purpose of CSS Flexbox?",
+        "options": [
+          {"id": "a", "text": "To create flexible and responsive layouts"},
+          {"id": "b", "text": "To add animations to web pages"},
+          {"id": "c", "text": "To manage database connections"},
+          {"id": "d", "text": "To compile JavaScript code"}
+        ],
+        "answerId": "a",
+        "explanation": "CSS Flexbox is a layout model that allows elements to align and distribute space within a container efficiently."
+      },
+      {
+        "id": "fs17",
+        "text": "Which tool is used for building and bundling JavaScript applications?",
+        "options": [
+          {"id": "a", "text": "Webpack"},
+          {"id": "b", "text": "Git"},
+          {"id": "c", "text": "NPM"},
+          {"id": "d", "text": "Docker"}
+        ],
+        "answerId": "a",
+        "explanation": "Webpack is a static module bundler for modern JavaScript applications that bundles JavaScript files for usage in a browser."
+      },
+      {
+        "id": "fs18",
+        "text": "What is the purpose of environment variables in web applications?",
+        "options": [
+          {"id": "a", "text": "To store configuration settings"},
+          {"id": "b", "text": "To store user data"},
+          {"id": "c", "text": "To manage database schemas"},
+          {"id": "d", "text": "To style web pages"}
+        ],
+        "answerId": "a",
+        "explanation": "Environment variables are used to store configuration settings, API keys, database URLs, and other sensitive information outside of the codebase."
+      },
+      {
+        "id": "fs19",
+        "text": "Which HTTP status code indicates success?",
+        "options": [
+          {"id": "a", "text": "200"},
+          {"id": "b", "text": "404"},
+          {"id": "c", "text": "500"},
+          {"id": "d", "text": "301"}
+        ],
+        "answerId": "a",
+        "explanation": "HTTP status code 200 indicates that the request was successful."
+      },
+      {
+        "id": "fs20",
+        "text": "What is TypeScript?",
+        "options": [
+          {"id": "a", "text": "A typed superset of JavaScript"},
+          {"id": "b", "text": "A CSS framework"},
+          {"id": "c", "text": "A database language"},
+          {"id": "d", "text": "A server framework"}
+        ],
+        "answerId": "a",
+        "explanation": "TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale."
+      },
+      {
+        "id": "fs21",
+        "text": "What is the purpose of middleware in Express.js?",
+        "options": [
+          {"id": "a", "text": "To handle requests and responses"},
+          {"id": "b", "text": "To style web pages"},
+          {"id": "c", "text": "To manage databases"},
+          {"id": "d", "text": "To compile TypeScript"}
+        ],
+        "answerId": "a",
+        "explanation": "Middleware functions are functions that have access to the request object, the response object, and the next function in the application's request-response cycle."
+      },
+      {
+        "id": "fs22",
+        "text": "Which database is known for its document-based data model?",
+        "options": [
+          {"id": "a", "text": "MongoDB"},
+          {"id": "b", "text": "MySQL"},
+          {"id": "c", "text": "PostgreSQL"},
+          {"id": "d", "text": "SQLite"}
+        ],
+        "answerId": "a",
+        "explanation": "MongoDB stores data in flexible, JSON-like documents, meaning fields can vary from document to document and data structure can be changed over time."
+      },
+      {
+        "id": "fs23",
+        "text": "What is the purpose of the useEffect hook in React?",
+        "options": [
+          {"id": "a", "text": "To perform side effects in function components"},
+          {"id": "b", "text": "To manage state"},
+          {"id": "c", "text": "To create context"},
+          {"id": "d", "text": "To handle forms"}
+        ],
+        "answerId": "a",
+        "explanation": "The useEffect Hook lets you perform side effects in function components, such as data fetching, subscriptions, or manually changing the DOM."
+      },
+      {
+        "id": "fs24",
+        "text": "Which tool is used for testing JavaScript code?",
+        "options": [
+          {"id": "a", "text": "Jest"},
+          {"id": "b", "text": "Webpack"},
+          {"id": "c", "text": "Babel"},
+          {"id": "d", "text": "ESLint"}
+        ],
+        "answerId": "a",
+        "explanation": "Jest is a delightful JavaScript testing framework with a focus on simplicity, often used for testing React applications."
+      },
+      {
+        "id": "fs25",
+        "text": "What is the purpose of GraphQL?",
+        "options": [
+          {"id": "a", "text": "To provide a more efficient alternative to REST"},
+          {"id": "b", "text": "To style web pages"},
+          {"id": "c", "text": "To manage databases"},
+          {"id": "d", "text": "To compile code"}
+        ],
+        "answerId": "a",
+        "explanation": "GraphQL is a query language for APIs that allows clients to request exactly the data they need, making it more efficient than traditional REST APIs."
+      },
+      {
+        "id": "fs26",
+        "text": "Which CSS framework is known for its utility-first approach?",
+        "options": [
+          {"id": "a", "text": "Tailwind CSS"},
+          {"id": "b", "text": "Bootstrap"},
+          {"id": "c", "text": "Foundation"},
+          {"id": "d", "text": "Bulma"}
+        ],
+        "answerId": "a",
+        "explanation": "Tailwind CSS is a utility-first CSS framework that provides low-level utility classes to build custom designs directly in your markup."
+      },
+      {
+        "id": "fs27",
+        "text": "What is the purpose of NPM?",
+        "options": [
+          {"id": "a", "text": "Package manager for JavaScript"},
+          {"id": "b", "text": "Node.js module"},
+          {"id": "c", "text": "New Project Manager"},
+          {"id": "d", "text": "Network Protocol Manager"}
+        ],
+        "answerId": "a",
+        "explanation": "NPM (Node Package Manager) is the default package manager for Node.js and is used to install and manage JavaScript packages."
+      },
+      {
+        "id": "fs28",
+        "text": "Which database operation is used to add new data?",
+        "options": [
+          {"id": "a", "text": "INSERT"},
+          {"id": "b", "text": "SELECT"},
+          {"id": "c", "text": "UPDATE"},
+          {"id": "d", "text": "DELETE"}
+        ],
+        "answerId": "a",
+        "explanation": "The INSERT statement is used to add new records to a database table."
+      },
+      {
+        "id": "fs29",
+        "text": "What is the purpose of the useState hook in React?",
+        "options": [
+          {"id": "a", "text": "To add state to functional components"},
+          {"id": "b", "text": "To perform side effects"},
+          {"id": "c", "text": "To create context"},
+          {"id": "d", "text": "To handle routing"}
+        ],
+        "answerId": "a",
+        "explanation": "The useState Hook allows you to add state to functional components in React."
+      },
+      {
+        "id": "fs30",
+        "text": "Which tool is used for container orchestration?",
+        "options": [
+          {"id": "a", "text": "Kubernetes"},
+          {"id": "b", "text": "Docker"},
+          {"id": "c", "text": "Webpack"},
+          {"id": "d", "text": "NPM"}
+        ],
+        "answerId": "a",
+        "explanation": "Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications."
+      },
+      {
+        "id": "fs31",
+        "text": "What is the purpose of CSS Grid?",
+        "options": [
+          {"id": "a", "text": "To create two-dimensional layouts"},
+          {"id": "b", "text": "To add animations"},
+          {"id": "c", "text": "To manage databases"},
+          {"id": "d", "text": "To compile JavaScript"}
+        ],
+        "answerId": "a",
+        "explanation": "CSS Grid Layout is a two-dimensional layout system for the web that lets you lay out items in rows and columns."
+      },
+      {
+        "id": "fs32",
+        "text": "Which JavaScript feature is used for handling asynchronous operations?",
+        "options": [
+          {"id": "a", "text": "Promises"},
+          {"id": "b", "text": "Variables"},
+          {"id": "c", "text": "Functions"},
+          {"id": "d", "text": "Objects"}
+        ],
+        "answerId": "a",
+        "explanation": "Promises are used to handle asynchronous operations in JavaScript, representing a value that may be available now, in the future, or never."
+      },
+      {
+        "id": "fs33",
+        "text": "What is the purpose of JWT in web applications?",
+        "options": [
+          {"id": "a", "text": "Authentication and authorization"},
+          {"id": "b", "text": "Data compression"},
+          {"id": "c", "text": "Database management"},
+          {"id": "d", "text": "Code compilation"}
+        ],
+        "answerId": "a",
+        "explanation": "JWT (JSON Web Token) is an open standard for securely transmitting information between parties as a JSON object, commonly used for authentication."
+      },
+      {
+        "id": "fs34",
+        "text": "Which tool is used for code formatting in JavaScript?",
+        "options": [
+          {"id": "a", "text": "Prettier"},
+          {"id": "b", "text": "Webpack"},
+          {"id": "c", "text": "Babel"},
+          {"id": "d", "text": "Jest"}
+        ],
+        "answerId": "a",
+        "explanation": "Prettier is an opinionated code formatter that supports many languages and integrates with most editors."
+      },
+      {
+        "id": "fs35",
+        "text": "What is the purpose of the virtual DOM in React?",
+        "options": [
+          {"id": "a", "text": "To improve performance by minimizing direct DOM manipulation"},
+          {"id": "b", "text": "To create virtual reality applications"},
+          {"id": "c", "text": "To manage state"},
+          {"id": "d", "text": "To handle routing"}
+        ],
+        "answerId": "a",
+        "explanation": "The virtual DOM allows React to update the UI efficiently by comparing the virtual DOM with the real DOM and making minimal necessary changes."
+      },
+      {
+        "id": "fs36",
+        "text": "Which database operation is used to modify existing data?",
+        "options": [
+          {"id": "a", "text": "UPDATE"},
+          {"id": "b", "text": "INSERT"},
+          {"id": "c", "text": "SELECT"},
+          {"id": "d", "text": "DELETE"}
+        ],
+        "answerId": "a",
+        "explanation": "The UPDATE statement is used to modify existing records in a database table."
+      },
+      {
+        "id": "fs37",
+        "text": "What is the purpose of CSS media queries?",
+        "options": [
+          {"id": "a", "text": "To create responsive designs"},
+          {"id": "b", "text": "To add animations"},
+          {"id": "c", "text": "To manage databases"},
+          {"id": "d", "text": "To compile JavaScript"}
+        ],
+        "answerId": "a",
+        "explanation": "CSS media queries allow you to apply different styles for different devices or screen sizes, enabling responsive web design."
+      },
+      {
+        "id": "fs38",
+        "text": "Which tool is used for JavaScript transpilation?",
+        "options": [
+          {"id": "a", "text": "Babel"},
+          {"id": "b", "text": "Webpack"},
+          {"id": "c", "text": "NPM"},
+          {"id": "d", "text": "Jest"}
+        ],
+        "answerId": "a",
+        "explanation": "Babel is a JavaScript compiler that converts modern JavaScript code into backwards-compatible versions that can run in older browsers."
+      },
+      {
+        "id": "fs39",
+        "text": "What is the purpose of the useContext hook in React?",
+        "options": [
+          {"id": "a", "text": "To access context in functional components"},
+          {"id": "b", "text": "To manage state"},
+          {"id": "c", "text": "To perform side effects"},
+          {"id": "d", "text": "To handle forms"}
+        ],
+        "answerId": "a",
+        "explanation": "The useContext Hook lets you subscribe to React context without introducing nesting in functional components."
+      },
+      {
+        "id": "fs40",
+        "text": "Which HTTP method is used to create new resources?",
+        "options": [
+          {"id": "a", "text": "POST"},
+          {"id": "b", "text": "GET"},
+          {"id": "c", "text": "PUT"},
+          {"id": "d", "text": "DELETE"}
+        ],
+        "answerId": "a",
+        "explanation": "The POST method is used to submit an entity to the specified resource, often causing a change in state or side effects on the server, typically used to create new resources."
+      }
+    ]
+  }
+]

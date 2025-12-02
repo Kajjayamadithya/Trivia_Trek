@@ -1,0 +1,123 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-1764490695688",
+      "title": "C Language",
+      "description": "In this quiz you can learn a new things",
+      "category": "programming",
+      "timeLimitSec": 100,
+      "questions": [
+        {
+          "id": "q-1764491119776",
+          "text": "Who is the father of C language?",
+          "options": [
+            {
+              "id": "o-1",
+              "text": "Steve Jobs"
+            },
+            {
+              "id": "o-2",
+              "text": "James Gosling"
+            },
+            {
+              "id": "o-3",
+              "text": "Dennis Ritchie "
+            },
+            {
+              "id": "o-4",
+              "text": "Rasmus Lerdorf"
+            }
+          ],
+          "answerId": "o-3"
+        },
+        {
+          "id": "q-1764493964517",
+          "text": "what is not correct data type",
+          "options": [
+            {
+              "id": "a",
+              "text": "int "
+            },
+            {
+              "id": "b",
+              "text": "char"
+            },
+            {
+              "id": "c",
+              "text": "symbol"
+            },
+            {
+              "id": "d",
+              "text": "float"
+            }
+          ],
+          "answerId": "c"
+        }
+      ]
+    },
+    {
+      "id": "quiz-1764495250548",
+      "title": "data structure",
+      "description": "algorithms",
+      "category": "solving ",
+      "timeLimitSec": 60,
+      "questions": [
+        {
+          "id": "q-1764495337796",
+          "text": "1. What is a data structure?  ",
+          "options": [
+            {
+              "id": "a",
+              "text": "A programming language"
+            },
+            {
+              "id": "b",
+              "text": "A collection of algorithms"
+            },
+            {
+              "id": "c",
+              "text": "A way to store and organize data"
+            },
+            {
+              "id": "d",
+              "text": "A type of computer hardware"
+            }
+          ],
+          "answerId": "c"
+        }
+      ]
+    },
+    {
+      "id": "quiz-1764607740902",
+      "title": "maths",
+      "description": "solving problems",
+      "category": "mathematics",
+      "timeLimitSec": 300,
+      "questions": [
+        {
+          "id": "q-1764668114098",
+          "text": "what is the formula of (a+b)^2",
+          "options": [
+            {
+              "id": "a",
+              "text": "a^2+b^2+2ab"
+            },
+            {
+              "id": "b",
+              "text": "a^2+2ab"
+            },
+            {
+              "id": "c",
+              "text": "a^2+b^2"
+            },
+            {
+              "id": "d",
+              "text": "b^2+2ab"
+            }
+          ],
+          "answerId": "a"
+        }
+      ]
+    }
+  ]
+}
